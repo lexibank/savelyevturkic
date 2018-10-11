@@ -37,6 +37,7 @@ class Dataset(BaseDataset):
         ...     ds.add_lexemes(...)
         """
         with self.cldf as ds:
+            ds.add_languages()
             index2lang = {}
             meaning, root_index = None, 0
             for i, row in enumerate(reader(self.raw / 'Savelyev_Turkic.Sheet1.csv')):
@@ -44,7 +45,6 @@ class Dataset(BaseDataset):
                     for j, col in enumerate(row):
                         if (j > 1) and col:
                             index2lang[j] = slug(col)
-                            ds.add_language(ID=index2lang[j], Name=col)
                 elif i > 1:
                     has_cognates = False
                     if row[0]:

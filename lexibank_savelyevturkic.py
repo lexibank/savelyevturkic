@@ -25,17 +25,6 @@ class Dataset(BaseDataset):
         return reader(self.raw / '{0}.tsv'.format(what), dicts=True, delimiter='\t')
 
     def cmd_install(self, **kw):
-        """
-        Convert the raw data to a CLDF dataset.
-
-        Use the methods of `pylexibank.cldf.Dataset` after instantiating one as context:
-
-        >>> with self.cldf as ds:
-        ...     ds.add_sources(...)
-        ...     ds.add_language(...)
-        ...     ds.add_concept(...)
-        ...     ds.add_lexemes(...)
-        """
         with self.cldf as ds:
             ds.add_languages()
             index2lang = {}
@@ -64,3 +53,4 @@ class Dataset(BaseDataset):
                                 has_cognates = True
                     if not has_cognates:
                         print(i + 1)
+        # add alignments

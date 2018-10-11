@@ -246,6 +246,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "root"
                     }
                 ],
                 "foreignKeys": [

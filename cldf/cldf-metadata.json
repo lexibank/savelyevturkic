@@ -1,9 +1,10 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "",
+    "dc:bibliographicCitation": "Savelyev, Alexander (2019): Turkic Basic Vocabulary Databse. Jena: Max Planck Institute for the Science of Human History.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
-    "dc:title": "",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:title": "Turkic Basic Vocabulary Database",
     "dcat:accessURL": "https://github.com/lexibank/savelyevturkic",
     "rdf:ID": "savelyevturkic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",

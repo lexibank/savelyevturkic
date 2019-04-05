@@ -5,7 +5,9 @@ import attr
 from clldutils.path import Path
 from clldutils.misc import slug
 from csvw.dsv import reader
-from pylexibank.dataset import Cognate, Dataset as BaseDataset
+from pylexibank.dataset import Cognate, NonSplittingDataset as BaseDataset
+from lingpy import *
+from pylexibank.util import pb
 
 
 @attr.s
@@ -26,31 +28,30 @@ class Dataset(BaseDataset):
 
     def cmd_install(self, **kw):
         with self.cldf as ds:
-            ds.add_languages()
-            index2lang = {}
-            meaning, root_index = None, 0
-            for i, row in enumerate(reader(self.raw / 'Savelyev_Turkic.Sheet1.csv')):
-                if i == 0:
-                    for j, col in enumerate(row):
-                        if (j > 1) and col:
-                            index2lang[j] = slug(col)
-                elif i > 1:
-                    has_cognates = False
-                    if row[0]:
-                        meaning = '{0}_l{1}'.format(slug(row[0]), i + 1)
-                        root_index = 1
-                        ds.add_concept(ID=meaning, Name=row[0])
-                    else:
-                        root_index += 1
-                    root = row[1]
-                    for j, col in enumerate(row):
-                        if col and (j - 1 in index2lang):
-                            for lex in ds.add_lexemes(Value=col, Language_ID=index2lang[j - 1], Parameter_ID=meaning):
-                                ds.add_cognate(
-                                    lexeme=lex,
-                                    root=root,
-                                    Cognateset_ID='%s-%s-l%s' % (meaning, root_index, i + 1))
-                                has_cognates = True
-                    if not has_cognates:
-                        print(i + 1)
-        # add alignments
+            ds.add_languages(id_factory=lambda l: l['ID'])
+            
+            wl = Wordlist(self.raw.posix('turkic_alignment.tsv'))
+            for concept in self.concepts:
+                ds.add_concept(
+                        ID=slug(concept['ENGLISH']),
+                        Name=concept['ENGLISH'],
+                        Concepticon_ID=concept['CONCEPTICON_ID']
+                        )
+
+            for idx in pb(wl):
+                for lex in ds.add_lexemes(
+                        Language_ID=wl[idx, 'doculect'],
+                        Parameter_ID=slug(wl[idx, 'concept']),
+                        Value=wl[idx, 'entry'],
+                        Form=wl[idx, 'form'],
+                        Segments=wl[idx, 'tokens'],
+                        Source=''
+                        ):
+                    ds.add_cognate(
+                            lexeme=lex,
+                            Cognateset_ID=wl[idx, 'cogid'],
+                            Alignment=wl[idx, 'alignment']
+                            )
+
+
+

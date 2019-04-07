@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Savelyev, Alexander (2019): Turkic Basic Vocabulary Databse. Jena: Max Planck Institute for the Science of Human History.
+> Savelyev, Alexander (2019): Turkic Basic Vocabulary Database. Jena: Max Planck Institute for the Science of Human History.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 

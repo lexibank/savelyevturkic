@@ -27,8 +27,15 @@ class Dataset(BaseDataset):
                 "rˈ": "rʲ", "pˈ": "pʲ", "s-": "s", "š": "ʃ", "βˈ": "βʲ",
                 "sˈ": "sʲ", "tʃ": "tɕ", "ʦ": "ts"}
 
+
         with self.cldf as ds:
-            ds.add_languages(id_factory=lambda l: l['ID'])
+            l2s = {}
+            for l in self.languages:
+                ds.add_language(ID=l['ID'], Glottolog=l['Glottolog'], 
+                        Name=l['Name'])
+                l2s[l['ID']] = [x.lower(0 for x in l['Source'].split(',')]
+            
+            ds.add_sources(*self.raw.read_bib())
 
             wl = Wordlist(self.raw.posix('turkic_alignment.tsv'))
             for concept in self.concepts:
@@ -46,7 +53,7 @@ class Dataset(BaseDataset):
                         Form=wl[idx, 'form'],
                         Segments=[modified.get(x, x) for x in wl[idx,
                             'tokens']],
-                        Source=''
+                        Source=l2s[wl[idx, 'doculect']]
                         ):
                     ds.add_cognate(
                             lexeme=lex,

@@ -1,33 +1,34 @@
-ID,Name,Glottocode
-Azeri,Azeri,nort2697
-Baraba,BarabaTatar,bara1273
-Bashkir,Bashkir,bash1264
-Chuvash,Chuvash,chuv1255
-CodexCumanicus,Cuman,
-CrimeanTatar,CrimeanTatar,crim1257
-Dolgan,Dolgan,dolg1241
-Gagauz,Gagauz,gaga1249
-KarachayBalkar,KarachayBalkar,kara1465
-Karaim,Karaim,kara1464
-KaraKalpak,Karakalpak,kara1467
-Kazakh,Kazakh,kaza1248
-Khakas,Khakas,khak1248
-Khalaj,Khalaj,turk1303
-Kirghiz,Kirghiz,kirg1245
-Kumyk,Kumyk,kumy1244
-MiddleChulym,MiddleChulym,midd1324
-Nogai,Nogai,noga1249
-NorthAltai,NorthAltay,nort2686
-OldUyghur,OldTurkic,oldu1238
-Salar,Salar,sala1264
-SarygYugur,SarygYugur,west2402
-Shor,Shor,shor1247
-SouthAltai,SouthAltay,sout2694
-Tatar,KazanTatar,midd1325
-Tofa,Tofa,tofa1248
-Turkish,Turkish,anat1259
-Turkmen,Turkmen,turk1304
-Tuvan,Tuvan,tuvi1240
-Uighur,Uyghur,uigh1240
-Uzbek,Uzbek,uzbe1247
-Yakut,Yakut,yaku1245
+"ID","Name","Glottocode","Source"
+"Azeri","Azeri","nort2697","Gusejnov1941,Sirliyev1951, Tagiyev2006"
+"Baraba","BarabaTatar","bara1273","Dmitrijeva1981"
+"Bashkir","Bashkir","bash1264","Uraksin1996,Uraksin2005"
+"Chuvash","Chuvash","chuv1255","Asmarin1928,Savelyev2011"
+"CodexCumanicus","Cuman","-","Noauthor1880"
+"CrimeanTatar","CrimeanTatar","crim1257","Useinov2007"
+"Dolgan","Dolgan","dolg1241","Aksenova1992,Stachowski1993"
+"Gagauz","Gagauz","gaga1249","Baskakov1973,Radova-Karanastas2016"
+"KarachayBalkar","KarachayBalkar","kara1465","Tenisev1989,Sujuncev1965"
+"Karaim","Karaim","kara1464","Baskakov1974"
+"KaraKalpak","Karakalpak","kara1467","Baskakov1958,Baskakov1967"
+"Kazakh","Kazakh","kaza1248","Bektaev1995,Bekturov2001, Sauranbaev1954"
+"Khakas","Khakas","khak1248","Baskakov1953,Cankov1961, Subrakova2006"
+"Khalaj","Khalaj","turk1303","Doerfer1980"
+"Kirghiz","Kirghiz","kirg1245","Judakhin1985,Judakhin1957"
+"Kumyk","Kumyk","kumy1244","Adzijev1992,Bammatov1960, Bammatov1969"
+"MiddleChulym","MiddleChulym","midd1324","Savelyev2015"
+"Nogai","Nogai","noga1249","Baskakov1963,Baskakov1956, Kapajev2007"
+"NorthAltai","NorthAltay","nort2686","Baskakov1985"
+"OldUyghur","OldTurkic","oldu1238","Clauson1972"
+"Salar","Salar","sala1264","Tenisev1976"
+"SarygYugur","SarygYugur","west2402","Malov1957,Tenisev1966 "
+"Shor","Shor","shor1247","Kurpesko-Tannagaseva1993"
+"SouthAltai","SouthAltay","sout2694","Baskakov1947"
+"Tatar","KazanTatar","midd1325","Dmitrijev1955,Osmanov1966"
+"Tofa","Tofa","tofa1248","Rassadin1971,Rassadin2005"
+"Turkish","Turkish","anat1259","Baskakov1977,Iz1992"
+"Turkmen","Turkmen","turk1304","Baskakov1968,Khamzajev1968"
+"Tuvan","Tuvan","tuvi1240","Harrison2002,Mongus1988, Tenisev1968"
+"Uighur","Uyghur","uigh1240","Nadzip1968"
+"Uzbek","Uzbek","uzbe1247","Awde2002,Kary-Nijazov1941, Koscanov1983"
+"Yakut","Yakut","yaku1245","Afanasjev1968,Pekarskij1907, Sleptsov1972"
+

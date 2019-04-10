@@ -4,6 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "Turkic Basic Vocabulary Database",
     "dcat:accessURL": "https://github.com/lexibank/savelyevturkic",
     "rdf:ID": "savelyevturkic",
@@ -15,7 +16,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
+                "glottolog_version": "v3.4-1-g07a9b54e37",
                 "concepticon_version": "pyconcepticon-1.4.0-206-g1ad282b"
             }
         }

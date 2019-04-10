@@ -31,9 +31,9 @@ class Dataset(BaseDataset):
         with self.cldf as ds:
             l2s = {}
             for l in self.languages:
-                ds.add_language(ID=l['ID'], Glottolog=l['Glottolog'], 
+                ds.add_language(ID=l['ID'], Glottocode=l['Glottocode'], 
                         Name=l['Name'])
-                l2s[l['ID']] = [x.lower(0 for x in l['Source'].split(',')]
+                l2s[l['ID']] = [x.lower() for x in l['Source'].split(',')]
             
             ds.add_sources(*self.raw.read_bib())
 

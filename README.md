@@ -28,6 +28,7 @@ If you want to replicate the study, you can receive the NEXUS file using the EDI
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/savelyevturkic.svg?branch=master)](https://travis-ci.org/lexibank/savelyevturkic)
 ![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

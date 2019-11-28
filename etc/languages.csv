@@ -1,34 +1,33 @@
-"ID","Name","Glottocode","Source"
-"Azeri","Azeri","nort2697","Gusejnov1941,Sirliyev1951, Tagiyev2006"
-"Baraba","BarabaTatar","bara1273","Dmitrijeva1981"
-"Bashkir","Bashkir","bash1264","Uraksin1996,Uraksin2005"
-"Chuvash","Chuvash","chuv1255","Asmarin1928,Savelyev2011"
-"CodexCumanicus","Cuman","","Noauthor1880"
-"CrimeanTatar","CrimeanTatar","crim1257","Useinov2007"
-"Dolgan","Dolgan","dolg1241","Aksenova1992,Stachowski1993"
-"Gagauz","Gagauz","gaga1249","Baskakov1973,Radova-Karanastas2016"
-"KarachayBalkar","KarachayBalkar","kara1465","Tenisev1989,Sujuncev1965"
-"Karaim","Karaim","kara1464","Baskakov1974"
-"KaraKalpak","Karakalpak","kara1467","Baskakov1958,Baskakov1967"
-"Kazakh","Kazakh","kaza1248","Bektaev1995,Bekturov2001, Sauranbaev1954"
-"Khakas","Khakas","khak1248","Baskakov1953,Cankov1961, Subrakova2006"
-"Khalaj","Khalaj","turk1303","Doerfer1980"
-"Kirghiz","Kirghiz","kirg1245","Judakhin1985,Judakhin1957"
-"Kumyk","Kumyk","kumy1244","Adzijev1992,Bammatov1960, Bammatov1969"
-"MiddleChulym","MiddleChulym","midd1324","Savelyev2015"
-"Nogai","Nogai","noga1249","Baskakov1963,Baskakov1956, Kapajev2007"
-"NorthAltai","NorthAltay","nort2686","Baskakov1985"
-"OldUyghur","OldTurkic","oldu1238","Clauson1972"
-"Salar","Salar","sala1264","Tenisev1976"
-"SarygYugur","SarygYugur","west2402","Malov1957,Tenisev1966 "
-"Shor","Shor","shor1247","Kurpesko-Tannagaseva1993"
-"SouthAltai","SouthAltay","sout2694","Baskakov1947"
-"Tatar","KazanTatar","midd1325","Dmitrijev1955,Osmanov1966"
-"Tofa","Tofa","tofa1248","Rassadin1971,Rassadin2005"
-"Turkish","Turkish","anat1259","Baskakov1977,Iz1992"
-"Turkmen","Turkmen","turk1304","Baskakov1968,Khamzajev1968"
-"Tuvan","Tuvan","tuvi1240","Harrison2002,Mongus1988, Tenisev1968"
-"Uighur","Uyghur","uigh1240","Nadzip1968"
-"Uzbek","Uzbek","uzbe1247","Awde2002,Kary-Nijazov1941, Koscanov1983"
-"Yakut","Yakut","yaku1245","Afanasjev1968,Pekarskij1907, Sleptsov1972"
-
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source
+Azeri,Azeri,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic,"Gusejnov1941,Sirliyev1951,Tagiyev2006"
+Baraba,Baraba Tatar,bara1273,Baraba,,Eurasia,,,Turkic,Dmitrijeva1981
+Bashkir,Bashkir,bash1264,Bashkir,bak,Eurasia,53.5967,56.5594,Turkic,"Uraksin1996,Uraksin2005"
+Chuvash,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.487,47.163,Turkic,"Asmarin1928,Savelyev2011"
+CodexCumanicus,Cuman,,,,,,,,Noauthor1880
+CrimeanTatar,Crimean Tatar,crim1257,Crimean Tatar,crh,Eurasia,45.0,34.08,Turkic,Useinov2007
+Dolgan,Dolgan,dolg1241,Dolgan,dlg,Eurasia,71.1083,94.2936,Turkic,"Aksenova1992,Stachowski1993"
+Gagauz,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.5988,28.0277,Turkic,"Baskakov1973,Radova-Karanastas2016"
+KarachayBalkar,Karachay Balkar,kara1465,Karachay-Balkar,krc,Eurasia,43.565,42.2606,Turkic,"Tenisev1989,Sujuncev1965"
+Karaim,Karaim,kara1464,Karaim,kdr,Eurasia,54.5534,25.1054,Turkic,Baskakov1974
+KaraKalpak,Karakalpak,kara1467,Kara-Kalpak,kaa,Eurasia,39.98,63.3223,Turkic,"Baskakov1958,Baskakov1967"
+Kazakh,Kazakh,kaza1248,Kazakh,kaz,Eurasia,41.8729,65.7709,Turkic,"Bektaev1995,Bekturov2001,Sauranbaev1954"
+Khakas,Khakas,khak1248,Khakas,kjh,Eurasia,50.7393,107.169,Turkic,"Baskakov1953,Cankov1961,Subrakova2006"
+Khalaj,Khalaj,turk1303,Turkic Khalaj,klj,Eurasia,34.4224,50.3222,Turkic,Doerfer1980
+Kirghiz,Kirghiz,kirg1245,Kirghiz,kir,Eurasia,42.0,74.0,Turkic,"Judakhin1985,Judakhin1957"
+Kumyk,Kumyk,kumy1244,Kumyk,kum,Eurasia,43.0,47.0,Turkic,"Adzijev1992,Bammatov1960,Bammatov1969"
+MiddleChulym,Middle Chulym,midd1324,Middle Chulym Turkic,,Eurasia,,,Turkic,Savelyev2015
+Nogai,Nogai,noga1249,Nogai,nog,Eurasia,43.5917,46.6618,Turkic,"Baskakov1963,Baskakov1956,Kapajev2007"
+NorthAltai,North Altay,nort2686,Northern Altai,atv,Eurasia,50.8998,88.0672,Turkic,Baskakov1985
+OldUyghur,Old Turkic,oldu1238,Old Uighur,oui,Eurasia,,,Turkic,Clauson1972
+Salar,Salar,sala1264,Salar,slr,Eurasia,35.5457,102.819,Turkic,Tenisev1976
+SarygYugur,Saryg Yugur,west2402,West Yugur,ybe,Eurasia,39.0548,99.3112,Turkic,"Malov1957,Tenisev1966"
+Shor,Shor,shor1247,Shor,cjs,Eurasia,52.3261,88.4344,Turkic,Kurpesko-Tannagaseva1993
+SouthAltai,South Altay,sout2694,Southern Altai,alt,Eurasia,50.1347,86.8705,Turkic,Baskakov1947
+Tatar,Kazan Tatar,midd1325,Middle Tatar,,Eurasia,,,Turkic,"Dmitrijev1955,Osmanov1966"
+Tofa,Tofa,tofa1248,Tofa,,,,,Turkic,"Rassadin1971,Rassadin2005"
+Turkish,Turkish,anat1259,Anatolian Turkish,,,,,Turkic,"Baskakov1977,Iz1992"
+Turkmen,Turkmen,turk1304,Turkmen,tuk,Eurasia,37.0872,59.1757,Turkic,"Baskakov1968,Khamzajev1968"
+Tuvan,Tuvan,tuvi1240,Tuvinian,tyv,Eurasia,51.7,94.36667,Turkic,"Harrison2002,Mongus1988,Tenisev1968"
+Uighur,Uyghur,uigh1240,Uighur,uig,Eurasia,43.67,79.75,Turkic,Nadzip1968
+Uzbek,Uzbek,uzbe1247,Uzbek,uzb,,,,Turkic,"Awde2002,Kary-Nijazov1941,Koscanov1983"
+Yakut,Yakut,yaku1245,Sakha,sah,Eurasia,61.6974,133.98,Turkic,"Afanasjev1968,Pekarskij1907,Sleptsov1972"

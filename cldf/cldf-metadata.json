@@ -1,30 +1,63 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "Savelyev, Alexander (2019): Turkic Basic Vocabulary Databse. Jena: Max Planck Institute for the Science of Human History.",
+    "aboutUrl": null,
+    "dc:bibliographicCitation": "Savelyev, Alexander and Robbeets, Martine (2019): Turkic Basic Vocabularies. Jena: Max Planck Institute for the Science of Human History.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Savelyev-2019-254"
+    ],
+    "dc:identifier": "https://doi.org/10.5281/zenodo.3555173",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Turkic Basic Vocabulary Database",
     "dcat:accessURL": "https://github.com/lexibank/savelyevturkic",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/savelyevturkic",
+            "dc:created": "d8a0765"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data/",
+            "dc:created": "v2.2.1"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "savelyevturkic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54e37",
-                "concepticon_version": "pyconcepticon-1.4.0-206-g1ad282b"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 8359,
+            "dc:extent": 8360,
             "tableSchema": {
                 "columns": [
                     {
@@ -175,6 +208,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source"
                     }
                 ],
                 "primaryKey": [
@@ -217,7 +254,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 8359,
+            "dc:extent": 8360,
             "tableSchema": {
                 "columns": [
                     {
@@ -271,7 +308,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "root"
+                        "name": "Root"
                     }
                 ],
                 "foreignKeys": [

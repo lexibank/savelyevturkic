@@ -18,7 +18,11 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'savelyevturkic=lexibank_savelyevturkic:Dataset',
+        ],
+        'cldfbench.commands': [
+            'savelyevturkic=savelyevturkiccommands',
         ]
+
     },
     install_requires=[
         'pylexibank>=2.1',

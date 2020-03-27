@@ -10,7 +10,7 @@ Available online at https://doi.org/10.5281/zenodo.3555173
 
 
 Conceptlists in Concepticon:
-- [Savelyev-2019-254](https://concepticon.clld.org/contributions/Savelyev-2019-254)
+- [Savelyev-2020-254](https://concepticon.clld.org/contributions/Savelyev-2020-254)
 ## Notes
 
 If you want to replicate the study, you can receive the NEXUS file using the EDICTOR tool (http://edictor.digling.org). In order to this, you should:
@@ -42,7 +42,18 @@ If you want to replicate the study, you can receive the NEXUS file using the EDI
 - **Synonymy:** 1.10
 - **Cognacy:** 8,360 cognates in 905 cognate sets (245 singletons)
 - **Cognate Diversity:** 0.08
-- **Invalid lexemes:** 1
-- **Tokens:** 33,355
-- **Segments:** 90 (0 BIPA errors, 0 CTLS sound class errors, 90 CLTS modified)
-- **Inventory size (avg):** 37.25
+- **Invalid lexemes:** 0
+- **Tokens:** 33,360
+- **Segments:** 91 (0 BIPA errors, 0 CTLS sound class errors, 91 CLTS modified)
+- **Inventory size (avg):** 37.31
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer
+Robert Forkel | @xrotwang | maintainer
+Alexander Savelyev | | original data coding
+Martine Robbeets | | funding
+
+

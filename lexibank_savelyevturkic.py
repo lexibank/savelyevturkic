@@ -66,7 +66,7 @@ class Dataset(BaseDataset):
             if row['ID'] == '8367':
                 row['ENTRY'] = 'ʒɯl'
                 
-            segs = [segments.get(x, x) for x in row['TOKENS']]
+            segs = [segments.get(x, x) for x in row['TOKENS'].split()]
             
             lex = args.writer.add_form_with_segments(
                 Local_ID=row['ID'],
@@ -75,7 +75,7 @@ class Dataset(BaseDataset):
                 Value=row['ENTRY'],
                 # sometimes the FORM value is empty for some reason. 
                 # if so we use the parsed 'segments' field by removing spaces.
-                Form=row['FORM'] if row['FORM'] else "".join([s for s in segs if s != " "]),
+                Form=row['FORM'] if row['FORM'] else "".join(segs),
                 Segments=segs,
                 Source=sources.get(row['DOCULECT']) or ['']
             )

@@ -28,9 +28,10 @@ def run(args):
     print(len(scores), len(sounds), max(scores.values()))
     matrix = [[0 for x in sounds] for y in sounds]
     soundlist = sorted(sounds, key=lambda x: (
-        token2class(x, 'dolgo'),
-        token2class(x, 'sca'),
-        token2class(x, 'asjp')))
+        token2class(x, 'cv', cldf=True),
+        token2class(x, 'dolgo', cldf=True),
+        token2class(x, 'sca', cldf=True),
+        token2class(x, 'asjp', cldf=True)), reverse=True)
     for (i, soundA), (j, soundB) in combinations(enumerate(soundlist), r=2):
         score = scores[soundA, soundB]
         freqA, freqB = sounds[soundA], sounds[soundB]
@@ -41,7 +42,7 @@ def run(args):
         freq = sounds[sound]
         matrix[i][i] = score/freq
     args.log.info('calculated the matrix')
-    plt.imshow(matrix, cmap='plasma')
+    plt.imshow(matrix, cmap='jet')
     plt.title('Sound correspondence frequency across Turkic languages')
     cb = plt.colorbar()
     cb.set_label('Frequency')

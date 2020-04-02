@@ -14,7 +14,6 @@ def run(args):
             columns=('parameter_id', 'concept_name', 'language_id',
                 'language_name', 'value', 'form', 'segments',
                 'cogid_cognateset_id'))
-    wl.add_entries('ipa', 'form', lambda x: x)
     D = {0: wl.columns}
     for idx in wl:
         if not wl[idx, 'tokens']:
@@ -29,13 +28,18 @@ def run(args):
             alms,
             ref='cogid',
             fuzzy=False,
-            segments='tokens'
+            segments='tokens',
+            transcription='form'
             )
     cop.add_structure(model='cv')
     cop.get_sites(minrefs=3, structure='structure')
     cop.cluster_sites()
     cop.sites_to_pattern()
     cop.add_patterns()
-    cop.write_patterns(ds.dir.joinpath('output', 'patterns.tsv').as_posix())
-    cop.output('tsv', filename=ds.dir.joinpath('output', 'savelyev-patterns').as_posix(), prettify=False)
+    cop.write_patterns(ds.dir.joinpath('analysis', 'correspondence-patterns.tsv').as_posix())
+    cop.output('tsv', filename=ds.dir.joinpath('analysis',
+        'wordlist-correspondences').as_posix(), prettify=False, ignore='all')
+    
+
+
 

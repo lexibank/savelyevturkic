@@ -48,6 +48,7 @@ class Dataset(BaseDataset):
             "sˈ": "sʲ",
             "tʃ": "tɕ",
             "ʦ": "ts",
+            "_": "+",
         }
         concepts = args.writer.add_concepts(
             id_factory=lambda x: x.id.split('-')[-1]+"_"+slug(x.english),

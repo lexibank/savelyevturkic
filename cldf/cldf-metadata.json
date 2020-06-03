@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/savelyevturkic",
-            "dc:created": "v1.0-3-g7daabaa"
+            "dc:created": "v1.0-4-g4c7c077"
         },
         {
             "rdf:type": "prov:Entity",

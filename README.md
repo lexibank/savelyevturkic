@@ -1,12 +1,12 @@
-# Turkic Basic Vocabulary Database
+# CLDF dataset derived from Savelyev and Robbeet's "Internal Structure of the Turkic Language Family" from 2020
 
 Cite the source dataset as
 
-> Savelyev, Alexander and Robbeets, Martine (2019): Turkic Basic Vocabularies. Jena: Max Planck Institute for the Science of Human History.
+> Savelyev, Alexander and Robbeets, Martine (2020): Bayesian phylolinguistics infers the internal structure and the time-depth of the Turkic language family. Journal of Language Evolution 5.1. 39-53.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
-Available online at https://doi.org/10.5281/zenodo.3555173
+Available online at https://doi.org/10.1093/jole/lzz010
 
 
 Conceptlists in Concepticon:
@@ -49,11 +49,11 @@ If you want to replicate the study, you can receive the NEXUS file using the EDI
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Robert Forkel | @xrotwang | maintainer
-Alexander Savelyev | | original data coding
-Martine Robbeets | | funding
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Alexander Savelyev | | original data coding | Author
+Johann-Mattis List | @LinguList | maintainer | Author
+Robert Forkel | @xrotwang | maintainer | Author
+Martine Robbeets | | funding | Editor
 
 

@@ -1,48 +1,48 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Savelyev, Alexander and Robbeets, Martine (2019): Turkic Basic Vocabularies. Jena: Max Planck Institute for the Science of Human History.",
+    "dc:bibliographicCitation": "Savelyev, Alexander and Robbeets, Martine (2020): Bayesian phylolinguistics infers the internal structure and the time-depth of the Turkic language family. Journal of Language Evolution 5.1. 39-53.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Savelyev-2020-254"
     ],
-    "dc:identifier": "https://doi.org/10.5281/zenodo.3555173",
+    "dc:identifier": "https://doi.org/10.1093/jole/lzz010",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Turkic Basic Vocabulary Database",
+    "dc:title": "CLDF dataset derived from Savelyev and Robbeet's \"Internal Structure of the Turkic Language Family\" from 2020",
     "dcat:accessURL": "https://github.com/lexibank/savelyevturkic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/savelyevturkic",
-            "dc:created": "v1.0-2-g8109e35"
+            "dc:created": "v1.0-11-gb72367e"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.3.0-107-g79157a1"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1-7-g35d84ac"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.0"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

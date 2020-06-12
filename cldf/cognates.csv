@@ -1147,7 +1147,7 @@ Baraba-33_cheekn-2-1,Baraba-33_cheekn-2,bit,400,false,expert,,b   i   t,,,*bet
 Kazakh-33_cheekn-1-1,Kazakh-33_cheekn-1,bet,400,false,expert,,b   e   t,,,*bet
 Kirghiz-33_cheekn-1-1,Kirghiz-33_cheekn-1,bet,400,false,expert,,b   e   t,,,*bet
 Nogai-33_cheekn-1-1,Nogai-33_cheekn-1,bet,400,false,expert,,b   e   t,,,*bet
-Chuvash-33_cheekn-1-1,Chuvash-33_cheekn-1,[pit] ɕömardi,401,false,expert,,p   i   t   _   ɕ   ŏ   m   a   r   d   i,,,*jumurtka
+Chuvash-33_cheekn-1-1,Chuvash-33_cheekn-1,[pit] ɕömardi,401,false,expert,,p   i   t   +   ɕ   ŏ   m   a   r   d   i,,,*jumurtka
 Yakut-33_cheekn-1-1,Yakut-33_cheekn-1,iedes,402,false,expert,,,,,iedes
 Uighur-33_cheekn-1-1,Uighur-33_cheekn-1,mɛŋza,403,false,expert,,,,,*beŋiŕ
 Uzbek-33_cheekn-1-1,Uzbek-33_cheekn-1,juz,404,false,expert,,,,,*jü:ŕ
@@ -1201,13 +1201,13 @@ Tatar-35_childkintermn-1-1,Tatar-35_childkintermn-1,bala,130,false,expert,,b   a
 Uighur-35_childkintermn-1-1,Uighur-35_childkintermn-1,bala,130,false,expert,,b   a   l   a,,,*ba:la
 Uzbek-35_childkintermn-1-1,Uzbek-35_childkintermn-1,bɔla,130,false,expert,,b   ɔ   l   a,,,*ba:la
 Kumyk-35_childkintermn-2-1,Kumyk-35_childkintermn-2,jaʃ,131,false,expert,,j   a   ʃ   -   -   -   -   -,,,*ja:ĺ
-Tuvan-35_childkintermn-1-1,Tuvan-35_childkintermn-1,ʨaʃ uruɣ,131,false,expert,,t ʃ   a   ʃ   _   u   r   u   ɣ,,,*ja:ĺ
+Tuvan-35_childkintermn-1-1,Tuvan-35_childkintermn-1,ʨaʃ uruɣ,131,false,expert,,t ʃ   a   ʃ   +   u   r   u   ɣ,,,*ja:ĺ
 Azeri-35_childkintermn-1-1,Azeri-35_childkintermn-1,uʃaɢ,132,false,expert,,u   ʃ   a   ɢ,,,*uĺak
 Gagauz-35_childkintermn-1-1,Gagauz-35_childkintermn-1,uʃak,132,false,expert,,u   ʃ   a   k,,,*uĺak
 MiddleChulym-35_childkintermn-1-1,MiddleChulym-35_childkintermn-1,kæʨ,133,false,expert,,,,,*kEnč
 Chuvash-35_childkintermn-1-1,Chuvash-35_childkintermn-1,aʨa,134,false,expert,,,,,*eče (Savelyev 2014: 324)
 Tofa-35_childkintermn-1-1,Tofa-35_childkintermn-1,uruɣ,135,false,expert,,-   -   -   -   u   r   u   ɣ,,,*urug
-Tuvan-35_childkintermn-2-1,Tuvan-35_childkintermn-2,ʨaʃ uruɣ,135,false,expert,,t ʃ   a   ʃ   _   u   r   u   ɣ,,,*urug
+Tuvan-35_childkintermn-2-1,Tuvan-35_childkintermn-2,ʨaʃ uruɣ,135,false,expert,,t ʃ   a   ʃ   +   u   r   u   ɣ,,,*urug
 Turkmen-35_childkintermn-1-1,Turkmen-35_childkintermn-1,ʨaɣa,136,false,expert,,,,,*ča:ka
 Turkish-35_childkintermn-1-1,Turkish-35_childkintermn-1,ʨoʥuk,137,false,expert,,ʨ   o   ʥ   u   k,,,*čo:čuk
 CodexCumanicus-35_childkintermn-1-1,CodexCumanicus-35_childkintermn-1,ogul,138,false,expert,,o   g   u   l   -   -,,,*oglan
@@ -2254,7 +2254,7 @@ Shor-67_feathern-1-1,Shor-67_feathern-1,tɕyg,454,false,expert,,t ʃ   y   g,,,*
 Tuvan-67_feathern-1-1,Tuvan-67_feathern-1,ʨyg,454,false,expert,,t ʃ   y   g,,,*jüg
 SouthAltai-67_feathern-1-1,SouthAltai-67_feathern-1,qanat,455,false,expert,,q   a   n   a   t   -   -   -   -   -   -,,,*Ka:jnat
 CrimeanTatar-67_feathern-1-1,CrimeanTatar-67_feathern-1,qanat,455,false,expert,,q   a   n   a   t   -   -   -   -   -   -,,,*Ka:jnat
-KarachayBalkar-67_feathern-2-1,KarachayBalkar-67_feathern-2,qanatlɯ tyk,455,false,expert,,q   a   n   a   t   l   ɯ   _   t   y   k,,,*Ka:jnat
+KarachayBalkar-67_feathern-2-1,KarachayBalkar-67_feathern-2,qanatlɯ tyk,455,false,expert,,q   a   n   a   t   l   ɯ   +   t   y   k,,,*Ka:jnat
 Azeri-67_feathern-2-1,Azeri-67_feathern-2,lɛlɛk,456,false,expert,,-   -   -   l   æ   l   æ   k,,,*je:lek
 Salar-67_feathern-1-1,Salar-67_feathern-1,mimiluχ,456,false,expert,,m   i   m   -   i   l   u   χ,,,*je:lek
 Turkmen-67_feathern-1-1,Turkmen-67_feathern-1,jelek,456,false,expert,,-   -   -   j   e   l   e   k,,,*je:lek
@@ -2719,8 +2719,8 @@ Dolgan-83_freezev-1-1,Dolgan-83_freezev-1,bu:hur,727,false,expert,,b   u ː   h 
 KaraKalpak-83_freezev-1-1,KaraKalpak-83_freezev-1,muzla,727,false,expert,,m   u   z   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,buzla
 KarachayBalkar-83_freezev-1-1,KarachayBalkar-83_freezev-1,buzla,727,false,expert,,b   u   z   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,buzla
 Karaim-83_freezev-1-1,Karaim-83_freezev-1,buzla,727,false,expert,,b   u   z   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,buzla
-Kazakh-83_freezev-1-1,Kazakh-83_freezev-1,(mŭz) qat,727,false,expert,,m   u   z   -   -   -   -   -   _   q   a   t   -   -   -   -   -,,,buzla
-Khalaj-83_freezev-1-1,Khalaj-83_freezev-1,bu:za:q va:a,727,false,expert,,b   u ː   z   -   -   -   -   -   -   -   -   -   a ː   q   _   v   a ː,,,buzla
+Kazakh-83_freezev-1-1,Kazakh-83_freezev-1,(mŭz) qat,727,false,expert,,m   u   z   -   -   -   -   -   +   q   a   t   -   -   -   -   -,,,buzla
+Khalaj-83_freezev-1-1,Khalaj-83_freezev-1,bu:za:q va:a,727,false,expert,,b   u ː   z   -   -   -   -   -   -   -   -   -   a ː   q   +   v   a ː,,,buzla
 Kumyk-83_freezev-1-1,Kumyk-83_freezev-1,buzla,727,false,expert,,b   u   z   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,buzla
 Nogai-83_freezev-1-1,Nogai-83_freezev-1,buzla,727,false,expert,,b   u   z   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,buzla
 Uzbek-83_freezev-1-1,Uzbek-83_freezev-1,muzla,727,false,expert,,m   u   z   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,buzla
@@ -3291,10 +3291,10 @@ Shor-100_here-1-1,Shor-100_here-1,mɯnda,739,false,expert,,m   ɯ   n   -   -   
 Tatar-100_here-1-1,Tatar-100_here-1,monda,739,false,expert,,m   o   n   -   -   -   -   -   -   -   -   -   d   a,,,bu
 Tofa-100_here-1-1,Tofa-100_here-1,mɯnda,739,false,expert,,m   ɯ   n   -   -   -   -   -   -   -   -   -   d   a,,,bu
 Turkish-100_here-1-1,Turkish-100_here-1,"burada, ? burasɯ",739,false,expert,,b   u   -   r   a   -   -   -   -   -   -   -   d   a,,,bu
-Turkmen-100_here-1-1,Turkmen-100_here-1,bu jerde,739,false,expert,,b   u   -   -   -   -   -   -   _   j   e   r   d   e,,,bu
+Turkmen-100_here-1-1,Turkmen-100_here-1,bu jerde,739,false,expert,,b   u   -   -   -   -   -   -   +   j   e   r   d   e,,,bu
 Tuvan-100_here-1-1,Tuvan-100_here-1,mɯnda,739,false,expert,,m   ɯ   n   -   -   -   -   -   -   -   -   -   d   a,,,bu
-Uighur-100_here-1-1,Uighur-100_here-1,"bu jɛrdɛ, bu jaqta",739,false,expert,,b   u   -   -   -   -   -   -   _   j   æ   r   d   æ,,,bu
-Uzbek-100_here-1-1,Uzbek-100_here-1,bu jerda,739,false,expert,,b   u   -   -   -   -   -   -   _   j   e   r   d   a,,,bu
+Uighur-100_here-1-1,Uighur-100_here-1,"bu jɛrdɛ, bu jaqta",739,false,expert,,b   u   -   -   -   -   -   -   +   j   æ   r   d   æ,,,bu
+Uzbek-100_here-1-1,Uzbek-100_here-1,bu jerda,739,false,expert,,b   u   -   -   -   -   -   -   +   j   e   r   d   a,,,bu
 Yakut-100_here-1-1,Yakut-100_here-1,manna,739,false,expert,,m   a   n ː   -   -   -   -   -   -   -   -   -   -   a,,,bu
 Chuvash-100_here-1-1,Chuvash-100_here-1,kunda,740,false,expert,,,,,kunda
 Baraba-101_hidev-1-1,Baraba-101_hidev-1,jæʃær,175,false,expert,,j   æ   -   ʃ   æ   -   r   -,,,*jaĺur
@@ -3543,7 +3543,7 @@ Uighur-107_how-2-1,Uighur-107_how-2,neʨuq,640,false,expert,,-   -   n   e   t �
 NorthAltai-108_huntv-1-1,NorthAltai-108_huntv-1,aŋna,741,false,expert,,a   ŋ   -   -   n   a   -   -   -   -   -   -   -,,,*aŋ 'game'
 SouthAltai-108_huntv-1-1,SouthAltai-108_huntv-1,aŋda,741,false,expert,,a   ŋ   -   -   d   a   -   -   -   -   -   -   -,,,*aŋ 'game'
 Khakas-108_huntv-1-1,Khakas-108_huntv-1,aŋna,741,false,expert,,a   ŋ   -   -   n   a   -   -   -   -   -   -   -,,,*aŋ 'game'
-Kirghiz-108_huntv-1-1,Kirghiz-108_huntv-1,aŋʨɯlɯq qɯl,741,false,expert,,a   ŋ   t ʃ   ɯ   -   -   l   ɯ   q   _   q   ɯ   l,,,*aŋ 'game'
+Kirghiz-108_huntv-1-1,Kirghiz-108_huntv-1,aŋʨɯlɯq qɯl,741,false,expert,,a   ŋ   t ʃ   ɯ   -   -   l   ɯ   q   +   q   ɯ   l,,,*aŋ 'game'
 Nogai-108_huntv-1-1,Nogai-108_huntv-1,aŋšɯla,741,false,expert,,a   ŋ   ʃ   ɯ   l   a   -   -   -   -   -   -   -,,,*aŋ 'game'
 Shor-108_huntv-1-1,Shor-108_huntv-1,aŋna 'to hunt a beast',741,false,expert,,a   ŋ   -   -   n   a   -   -   -   -   -   -   -,,,*aŋ 'game'
 Tofa-108_huntv-1-1,Tofa-108_huntv-1,aŋna,741,false,expert,,a   ŋ   -   -   n   a   -   -   -   -   -   -   -,,,*aŋ 'game'
@@ -3552,16 +3552,16 @@ Dolgan-108_huntv-1-1,Dolgan-108_huntv-1,bulta:,743,false,expert,,b   u   l   t  
 Yakut-108_huntv-1-1,Yakut-108_huntv-1,bulta:,743,false,expert,,b   u   l   t   a ː,,,*bul
 CodexCumanicus-108_huntv-1-1,CodexCumanicus-108_huntv-1,uːla,744,false,expert,,-   u ː   -   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 OldUyghur-108_huntv-1-1,OldUyghur-108_huntv-1,avla,744,false,expert,,-   a   v   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
-Azeri-108_huntv-1-1,Azeri-108_huntv-1,"ova ʨɯχ, ovʨuluɢ et, ovla",744,false,expert,,-   o   v   -   -   -   -   a   _   -   -   -   t ʃ   ɯ   χ   -   -,,,ab
+Azeri-108_huntv-1-1,Azeri-108_huntv-1,"ova ʨɯχ, ovʨuluɢ et, ovla",744,false,expert,,-   o   v   -   -   -   -   a   +   -   -   -   t ʃ   ɯ   χ   -   -,,,ab
 Bashkir-108_huntv-1-1,Bashkir-108_huntv-1,awla,744,false,expert,,-   a   w   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 CrimeanTatar-108_huntv-1-1,CrimeanTatar-108_huntv-1,? avla,744,false,expert,,-   a   v   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 Gagauz-108_huntv-1-1,Gagauz-108_huntv-1,awla,744,false,expert,,-   a   w   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 KaraKalpak-108_huntv-1-1,KaraKalpak-108_huntv-1,awla,744,false,expert,,-   a   w   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
-KarachayBalkar-108_huntv-1-1,KarachayBalkar-108_huntv-1,uwuɣa + motion verb,744,false,expert,,-   u   w   -   -   u   ɣ   a   _   b   a   r   -   -   -   -   -,,,ab
+KarachayBalkar-108_huntv-1-1,KarachayBalkar-108_huntv-1,uwuɣa + motion verb,744,false,expert,,-   u   w   -   -   u   ɣ   a   +   b   a   r   -   -   -   -   -,,,ab
 Karaim-108_huntv-1-1,Karaim-108_huntv-1,avla,744,false,expert,,-   a   v   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 Kazakh-108_huntv-1-1,Kazakh-108_huntv-1,awla,744,false,expert,,-   a   w   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 Kirghiz-108_huntv-2-1,Kirghiz-108_huntv-2,uula,744,false,expert,,-   u ː   -   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
-Kumyk-108_huntv-1-1,Kumyk-108_huntv-1,(ɣ)aw et,744,false,expert,,ɣ   a   w   _   -   -   -   -   -   -   -   -   -   -   -   e   t,,,ab
+Kumyk-108_huntv-1-1,Kumyk-108_huntv-1,(ɣ)aw et,744,false,expert,,ɣ   a   w   +   -   -   -   -   -   -   -   -   -   -   -   e   t,,,ab
 Tatar-108_huntv-1-1,Tatar-108_huntv-1,awla,744,false,expert,,-   a   w   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 Turkish-108_huntv-1-1,Turkish-108_huntv-1,avla,744,false,expert,,-   a   v   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
 Turkmen-108_huntv-1-1,Turkmen-108_huntv-1,awla,744,false,expert,,-   a   w   l   a   -   -   -   -   -   -   -   -   -   -   -   -,,,ab
@@ -3705,7 +3705,7 @@ Tuvan-112_killv-1-1,Tuvan-112_killv-1,ølyr,488,false,expert,,-   ø   l   -   y
 Uighur-112_killv-1-1,Uighur-112_killv-1,øltyr,488,false,expert,,-   ø   l   t   y   r,,,öl(t)ür  ölür  ötür
 Uzbek-112_killv-1-1,Uzbek-112_killv-1,oldir,488,false,expert,,-   o   l   d   i   r,,,öl(t)ür  ölür  ötür
 Yakut-112_killv-1-1,Yakut-112_killv-1,ølør,488,false,expert,,-   ø   l   -   ø   r,,,öl(t)ür  ölür  ötür
-CodexCumanicus-112_killv-1-1,CodexCumanicus-112_killv-1,jara_et,489,false,expert,,,,,yara et-
+CodexCumanicus-112_killv-1-1,CodexCumanicus-112_killv-1,jara+et,489,false,expert,,,,,yara et-
 Baraba-113_kneen-1-1,Baraba-113_kneen-1,tizi,154,false,expert,,t   i   z   i   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 CodexCumanicus-113_kneen-1-1,CodexCumanicus-113_kneen-1,tisgi,154,false,expert,,t   i   s   -   -   g   i   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 NorthAltai-113_kneen-1-1,NorthAltai-113_kneen-1,tize,154,false,expert,,t   i   z   e   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
@@ -3721,7 +3721,7 @@ Kazakh-113_kneen-1-1,Kazakh-113_kneen-1,tɘze,154,false,expert,,t   ĭ   z   e  
 Khakas-113_kneen-1-1,Khakas-113_kneen-1,"tɘzek, (tɘstenek)",154,false,expert,,t   ĭ   z   e   k   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 Khalaj-113_kneen-1-1,Khalaj-113_kneen-1,ti:iz,154,false,expert,,t   i ː   z   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 Kirghiz-113_kneen-1-1,Kirghiz-113_kneen-1,tize,154,false,expert,,t   i   z   e   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
-MiddleChulym-113_kneen-1-1,MiddleChulym-113_kneen-1,təsβa:zə,154,false,expert,,t   ə   s   -   -   -   -   -   -   -   -   -   _   β   a ː   z   ə,,,"*ti:ŕ, *tü:ŕ"
+MiddleChulym-113_kneen-1-1,MiddleChulym-113_kneen-1,təsβa:zə,154,false,expert,,t   ə   s   -   -   -   -   -   -   -   -   -   +   β   a ː   z   ə,,,"*ti:ŕ, *tü:ŕ"
 Nogai-113_kneen-1-1,Nogai-113_kneen-1,tiz,154,false,expert,,t   i   z   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 Salar-113_kneen-1-1,Salar-113_kneen-1,tizeχ,154,false,expert,,t   i   z   e   χ   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 SarygYugur-113_kneen-1-1,SarygYugur-113_kneen-1,"tez, tiz",154,false,expert,,t   e   z   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
@@ -3733,7 +3733,7 @@ Turkmen-113_kneen-1-1,Turkmen-113_kneen-1,dɯz,154,false,expert,,d   ɯ   z   - 
 Tuvan-113_kneen-1-1,Tuvan-113_kneen-1,dis(kek),154,false,expert,,d   i   s   -   -   k   e   k   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 Uighur-113_kneen-1-1,Uighur-113_kneen-1,tiz,154,false,expert,,t   i   z   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
 Uzbek-113_kneen-1-1,Uzbek-113_kneen-1,tiz(za),154,false,expert,,t   i   z   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*ti:ŕ, *tü:ŕ"
-MiddleChulym-113_kneen-2-1,MiddleChulym-113_kneen-2,təsβa:zə,155,false,expert,,t   ə   s   _   β   a ː   z   ə,,,*balč
+MiddleChulym-113_kneen-2-1,MiddleChulym-113_kneen-2,təsβa:zə,155,false,expert,,t   ə   s   +   β   a ː   z   ə,,,*balč
 Chuvash-113_kneen-2-1,Chuvash-113_kneen-2,ʨɘrguɕɕi,156,false,expert,,t ʃ   ĭ   r   g   u   ɕ ː   i,,,*görs
 Bashkir-113_kneen-1-1,Bashkir-113_kneen-1,tubɯq,157,false,expert,,t   u   b   ɯ   q,,,*topïk
 Dolgan-113_kneen-1-1,Dolgan-113_kneen-1,tobuk,157,false,expert,,t   o   b   u   k,,,*topïk
@@ -3872,7 +3872,7 @@ SouthAltai-118_left-1-1,SouthAltai-118_left-1,sol,624,false,expert,,s   o   l   
 Azeri-118_left-1-1,Azeri-118_left-1,sol,624,false,expert,,s   o   l   -   -   -   -   -   -,,,*so:l
 Bashkir-118_left-1-1,Bashkir-118_left-1,hul,624,false,expert,,h   u   l   -   -   -   -   -   -,,,*so:l
 CrimeanTatar-118_left-1-1,CrimeanTatar-118_left-1,sol,624,false,expert,,s   o   l   -   -   -   -   -   -,,,*so:l
-Gagauz-118_left-1-1,Gagauz-118_left-1,sol taraf,624,false,expert,,s   o   l   _   t   a   r   a   f,,,*so:l
+Gagauz-118_left-1-1,Gagauz-118_left-1,sol taraf,624,false,expert,,s   o   l   +   t   a   r   a   f,,,*so:l
 KarachayBalkar-118_left-1-1,KarachayBalkar-118_left-1,sol,624,false,expert,,s   o   l   -   -   -   -   -   -,,,*so:l
 Kazakh-118_left-1-1,Kazakh-118_left-1,sol,624,false,expert,,s   o   l   -   -   -   -   -   -,,,*so:l
 Khakas-118_left-1-1,Khakas-118_left-1,sol,624,false,expert,,s   o   l   -   -   -   -   -   -,,,*so:l
@@ -4177,56 +4177,56 @@ CrimeanTatar-128_mann-1-1,CrimeanTatar-128_mann-1,erkek,335,false,expert,,e   r 
 KaraKalpak-128_mann-1-1,KaraKalpak-128_mann-1,erkek,335,false,expert,,e   r   k   e   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
 Karaim-128_mann-1-1,Karaim-128_mann-1,? erkek,335,false,expert,,e   r   k   e   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
 Kazakh-128_mann-1-1,Kazakh-128_mann-1,erkek,335,false,expert,,e   r   k   e   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
-Kirghiz-128_mann-1-1,Kirghiz-128_mann-1,erkek (kiʃi),335,false,expert,,e   r   k   e   k   _   k   i   ʃ   i   -   -   -   -,,,*ẹrkek
+Kirghiz-128_mann-1-1,Kirghiz-128_mann-1,erkek (kiʃi),335,false,expert,,e   r   k   e   k   +   k   i   ʃ   i   -   -   -   -,,,*ẹrkek
 Kumyk-128_mann-1-1,Kumyk-128_mann-1,erkek,335,false,expert,,e   r   k   e   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
 Nogai-128_mann-1-1,Nogai-128_mann-1,erkek,335,false,expert,,e   r   k   e   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
-SarygYugur-128_mann-1-1,SarygYugur-128_mann-1,? erkek kise,335,false,expert,,e   r   k   e   k   _   k   i   s   e   -   -   -   -,,,*ẹrkek
+SarygYugur-128_mann-1-1,SarygYugur-128_mann-1,? erkek kise,335,false,expert,,e   r   k   e   k   +   k   i   s   e   -   -   -   -,,,*ẹrkek
 Turkish-128_mann-1-1,Turkish-128_mann-1,erkek,335,false,expert,,e   r   k   e   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
-Turkmen-128_mann-1-1,Turkmen-128_mann-1,erkek (adam),335,false,expert,,e   r   k   e   k   _   -   -   -   -   a   d   a   m,,,*ẹrkek
+Turkmen-128_mann-1-1,Turkmen-128_mann-1,erkek (adam),335,false,expert,,e   r   k   e   k   +   -   -   -   -   a   d   a   m,,,*ẹrkek
 Uighur-128_mann-1-1,Uighur-128_mann-1,ɛrkɛk,335,false,expert,,æ   r   k   æ   k   -   -   -   -   -   -   -   -   -,,,*ẹrkek
-Uzbek-128_mann-1-1,Uzbek-128_mann-1,erkak (kiʃi),335,false,expert,,e   r   k   a   k   _   k   i   ʃ   i   -   -   -   -,,,*ẹrkek
+Uzbek-128_mann-1-1,Uzbek-128_mann-1,erkak (kiʃi),335,false,expert,,e   r   k   a   k   +   k   i   ʃ   i   -   -   -   -,,,*ẹrkek
 Baraba-128_mann-1-1,Baraba-128_mann-1,er,336,false,expert,,-   e   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 CodexCumanicus-128_mann-1-1,CodexCumanicus-128_mann-1,er,336,false,expert,,-   e   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 NorthAltai-128_mann-1-1,NorthAltai-128_mann-1,er,336,false,expert,,-   e   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 OldUyghur-128_mann-1-1,OldUyghur-128_mann-1,er,336,false,expert,,-   e   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 SouthAltai-128_mann-1-1,SouthAltai-128_mann-1,erkiʒi,336,false,expert,,-   e   r   -   -   -   k   i   ʒ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Bashkir-128_mann-1-1,Bashkir-128_mann-1,ir (keʃe),336,false,expert,,-   i   r   -   -   _   k   e   ʃ   e   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Bashkir-128_mann-1-1,Bashkir-128_mann-1,ir (keʃe),336,false,expert,,-   i   r   -   -   +   k   e   ʃ   e   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 Chuvash-128_mann-1-1,Chuvash-128_mann-1,arʑɯn,336,false,expert,,-   a   r   -   -   -   -   -   -   -   ʑ   ɯ   n   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Dolgan-128_mann-1-1,Dolgan-128_mann-1,er kihi,336,false,expert,,-   e   r   -   -   _   k   i   h   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-KaraKalpak-128_mann-2-1,KaraKalpak-128_mann-2,er (adam),336,false,expert,,-   e   r   -   -   _   -   -   -   -   -   -   -   a   d   a   m,,,"*e:r, Eren (Dybo 2013: 369)"
+Dolgan-128_mann-1-1,Dolgan-128_mann-1,er kihi,336,false,expert,,-   e   r   -   -   +   k   i   h   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+KaraKalpak-128_mann-2-1,KaraKalpak-128_mann-2,er (adam),336,false,expert,,-   e   r   -   -   +   -   -   -   -   -   -   -   a   d   a   m,,,"*e:r, Eren (Dybo 2013: 369)"
 KarachayBalkar-128_mann-1-1,KarachayBalkar-128_mann-1,erkiʃi,336,false,expert,,-   e   r   -   -   -   k   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 Karaim-128_mann-2-1,Karaim-128_mann-2,"eren, ? er (kiʃi)",336,false,expert,,-   e   r   e   n   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Kazakh-128_mann-2-1,Kazakh-128_mann-2,er (adam),336,false,expert,,-   e   r   -   -   _   -   -   -   -   -   -   -   a   d   a   m,,,"*e:r, Eren (Dybo 2013: 369)"
-Khakas-128_mann-1-1,Khakas-128_mann-1,ir kɘzɘ,336,false,expert,,-   i   r   -   -   _   k   ĭ   z   ĭ   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Kazakh-128_mann-2-1,Kazakh-128_mann-2,er (adam),336,false,expert,,-   e   r   -   -   +   -   -   -   -   -   -   -   a   d   a   m,,,"*e:r, Eren (Dybo 2013: 369)"
+Khakas-128_mann-1-1,Khakas-128_mann-1,ir kɘzɘ,336,false,expert,,-   i   r   -   -   +   k   ĭ   z   ĭ   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 Khalaj-128_mann-1-1,Khalaj-128_mann-1,hɛr,336,false,expert,,h   æ   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Kumyk-128_mann-2-1,Kumyk-128_mann-2,"er (giʃi), eren",336,false,expert,,-   e   r   -   -   _   g   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Kumyk-128_mann-2-1,Kumyk-128_mann-2,"er (giʃi), eren",336,false,expert,,-   e   r   -   -   +   g   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 MiddleChulym-128_mann-1-1,MiddleChulym-128_mann-1,ɛr,336,false,expert,,-   æ   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 Nogai-128_mann-2-1,Nogai-128_mann-2,er,336,false,expert,,-   e   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Salar-128_mann-1-1,Salar-128_mann-1,ɛr kiʃi,336,false,expert,,-   æ   r   -   -   _   k   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-SarygYugur-128_mann-2-1,SarygYugur-128_mann-2,"eren (kise), ? er",336,false,expert,,-   e   r   e   n   _   k   i   s   e   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Shor-128_mann-1-1,Shor-128_mann-1,er kiʒi,336,false,expert,,-   e   r   -   -   _   k   i   ʒ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Tatar-128_mann-1-1,Tatar-128_mann-1,ir (keʃe),336,false,expert,,-   i   r   -   -   _   k   e   ʃ   e   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Salar-128_mann-1-1,Salar-128_mann-1,ɛr kiʃi,336,false,expert,,-   æ   r   -   -   +   k   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+SarygYugur-128_mann-2-1,SarygYugur-128_mann-2,"eren (kise), ? er",336,false,expert,,-   e   r   e   n   +   k   i   s   e   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Shor-128_mann-1-1,Shor-128_mann-1,er kiʒi,336,false,expert,,-   e   r   -   -   +   k   i   ʒ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Tatar-128_mann-1-1,Tatar-128_mann-1,ir (keʃe),336,false,expert,,-   i   r   -   -   +   k   e   ʃ   e   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 Tofa-128_mann-1-1,Tofa-128_mann-1,"er, ? <er kiʃi>",336,false,expert,,-   e   r   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Tuvan-128_mann-1-1,Tuvan-128_mann-1,er kiʒi,336,false,expert,,-   e   r   -   -   _   k   i   ʒ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Uighur-128_mann-2-1,Uighur-128_mann-2,"ɛr (kiʃi), <erɛn (obsolete)>",336,false,expert,,-   ɛ   r   -   -   _   k   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
-Yakut-128_mann-1-1,Yakut-128_mann-1,er kihi,336,false,expert,,-   e   r   -   -   _   k   i   h   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Tuvan-128_mann-1-1,Tuvan-128_mann-1,er kiʒi,336,false,expert,,-   e   r   -   -   +   k   i   ʒ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Uighur-128_mann-2-1,Uighur-128_mann-2,"ɛr (kiʃi), <erɛn (obsolete)>",336,false,expert,,-   ɛ   r   -   -   +   k   i   ʃ   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
+Yakut-128_mann-1-1,Yakut-128_mann-1,er kihi,336,false,expert,,-   e   r   -   -   +   k   i   h   i   -   -   -   -   -   -   -,,,"*e:r, Eren (Dybo 2013: 369)"
 OldUyghur-128_mann-2-1,OldUyghur-128_mann-2,kiʃi,337,false,expert,,-   -   -   -   -   -   -   -   k   i   ʃ   i,,,*kiĺi
 SouthAltai-128_mann-2-1,SouthAltai-128_mann-2,erkiʒi,337,false,expert,,e   r   -   -   -   -   -   -   k   i   ʒ   i,,,*kiĺi
 Azeri-128_mann-1-1,Azeri-128_mann-1,kiʃi,337,false,expert,,-   -   -   -   -   -   -   -   k   i   ʃ   i,,,*kiĺi
-Bashkir-128_mann-2-1,Bashkir-128_mann-2,? ir (keʃe),337,false,expert,,i   r   -   -   -   -   -   _   k   e   ʃ   e,,,*kiĺi
-Dolgan-128_mann-2-1,Dolgan-128_mann-2,er kihi,337,false,expert,,e   r   -   -   -   -   -   _   k   i   h   i,,,*kiĺi
+Bashkir-128_mann-2-1,Bashkir-128_mann-2,? ir (keʃe),337,false,expert,,i   r   -   -   -   -   -   +   k   e   ʃ   e,,,*kiĺi
+Dolgan-128_mann-2-1,Dolgan-128_mann-2,er kihi,337,false,expert,,e   r   -   -   -   -   -   +   k   i   h   i,,,*kiĺi
 KarachayBalkar-128_mann-2-1,KarachayBalkar-128_mann-2,erkiʃi,337,false,expert,,e   r   -   -   -   -   -   -   k   i   ʃ   i,,,*kiĺi
 Karaim-128_mann-3-1,Karaim-128_mann-3,"? kiʃi, kisi, er (kiʃi)",337,false,expert,,-   -   -   -   -   -   -   -   k   i   ʃ   i,,,*kiĺi
-Khakas-128_mann-2-1,Khakas-128_mann-2,ir kɘzɘ,337,false,expert,,i   r   -   -   -   -   -   _   k   ĭ   z   ĭ,,,*kiĺi
-Kirghiz-128_mann-2-1,Kirghiz-128_mann-2,?? (erkek) kiʃi,337,false,expert,,e   r   k   e   k   -   -   _   k   i   ʃ   i,,,*kiĺi
-Kumyk-128_mann-3-1,Kumyk-128_mann-3,eren,337,false,expert,,e   r   -   -   -   -   -   _   g   i   ʃ   i,,,*kiĺi
-Salar-128_mann-2-1,Salar-128_mann-2,ɛr kiʃi,337,false,expert,,æ   r   -   -   -   -   -   _   k   i   ʃ   i,,,*kiĺi
-SarygYugur-128_mann-3-1,SarygYugur-128_mann-3,"eren ? (kise), ? erkek kise",337,false,expert,,e   r   -   -   -   e   n   _   k   i   s   e,,,*kiĺi
-Shor-128_mann-2-1,Shor-128_mann-2,er kiʒi,337,false,expert,,e   r   -   -   -   -   -   _   k   i   ʒ   i,,,*kiĺi
-Tatar-128_mann-2-1,Tatar-128_mann-2,? ir (keʃe),337,false,expert,,i   r   -   -   -   -   -   _   k   e   ʃ   e,,,*kiĺi
-Tuvan-128_mann-2-1,Tuvan-128_mann-2,er kiʒi,337,false,expert,,e   r   -   -   -   -   -   _   k   i   ʒ   i,,,*kiĺi
-Uighur-128_mann-3-1,Uighur-128_mann-3,? ɛr (kiʃi),337,false,expert,,ɛ   r   -   -   -   -   -   _   k   i   ʃ   i,,,*kiĺi
-Yakut-128_mann-2-1,Yakut-128_mann-2,er kihi,337,false,expert,,e   r   -   -   -   -   -   _   k   i   h   i,,,*kiĺi
+Khakas-128_mann-2-1,Khakas-128_mann-2,ir kɘzɘ,337,false,expert,,i   r   -   -   -   -   -   +   k   ĭ   z   ĭ,,,*kiĺi
+Kirghiz-128_mann-2-1,Kirghiz-128_mann-2,?? (erkek) kiʃi,337,false,expert,,e   r   k   e   k   -   -   +   k   i   ʃ   i,,,*kiĺi
+Kumyk-128_mann-3-1,Kumyk-128_mann-3,eren,337,false,expert,,e   r   -   -   -   -   -   +   g   i   ʃ   i,,,*kiĺi
+Salar-128_mann-2-1,Salar-128_mann-2,ɛr kiʃi,337,false,expert,,æ   r   -   -   -   -   -   +   k   i   ʃ   i,,,*kiĺi
+SarygYugur-128_mann-3-1,SarygYugur-128_mann-3,"eren ? (kise), ? erkek kise",337,false,expert,,e   r   -   -   -   e   n   +   k   i   s   e,,,*kiĺi
+Shor-128_mann-2-1,Shor-128_mann-2,er kiʒi,337,false,expert,,e   r   -   -   -   -   -   +   k   i   ʒ   i,,,*kiĺi
+Tatar-128_mann-2-1,Tatar-128_mann-2,? ir (keʃe),337,false,expert,,i   r   -   -   -   -   -   +   k   e   ʃ   e,,,*kiĺi
+Tuvan-128_mann-2-1,Tuvan-128_mann-2,er kiʒi,337,false,expert,,e   r   -   -   -   -   -   +   k   i   ʒ   i,,,*kiĺi
+Uighur-128_mann-3-1,Uighur-128_mann-3,? ɛr (kiʃi),337,false,expert,,ɛ   r   -   -   -   -   -   +   k   i   ʃ   i,,,*kiĺi
+Yakut-128_mann-2-1,Yakut-128_mann-2,er kihi,337,false,expert,,e   r   -   -   -   -   -   +   k   i   h   i,,,*kiĺi
 OldUyghur-128_mann-3-1,OldUyghur-128_mann-3,jalŋuq,338,false,expert,,-   -   j   a   l   ŋ   u   q,,,*jalanuq
 Chuvash-128_mann-2-1,Chuvash-128_mann-2,arʑɯn,338,false,expert,,a   r   ʑ   ɯ   -   n   -   -,,,*jalanuq
 Baraba-129_many-1-1,Baraba-129_many-1,køp,521,false,expert,,k   ø   p   -   -,,,*köp
@@ -4511,12 +4511,12 @@ CodexCumanicus-137_narrow-1-1,CodexCumanicus-137_narrow-1,intɕka,766,false,expe
 SouthAltai-137_narrow-2-1,SouthAltai-137_narrow-2,? ʨiʨke,766,false,expert,,t ʃ   i   -   t ʃ   -   k   e   -,,,jinge
 Yakut-137_narrow-2-1,Yakut-137_narrow-2,sinɲiges,766,false,expert,,s   i   n   n ˈ   i   g   e   s,,,jinge
 NorthAltai-137_narrow-1-1,NorthAltai-137_narrow-1,ɯqtɕam,767,false,expert,,,,,ïḳčam
-KarachayBalkar-138_nasalmucusn-1-1,KarachayBalkar-138_nasalmucusn-1,burun boq,546,false,expert,,b   u   r   u   n   _   b   o   q   -   -   -   -   -   -   -   -   -   -,,,*burun
-Karaim-138_nasalmucusn-1-1,Karaim-138_nasalmucusn-1,burun jivisi,546,false,expert,,b   u   r   u   n   _   -   -   -   j   i   v   i   s   i   -   -   -   -,,,*burun
-Khalaj-138_nasalmucusn-1-1,Khalaj-138_nasalmucusn-1,burɯn suvɯ,546,false,expert,,b   u   r   ɯ   n   _   -   -   -   -   -   -   -   -   -   s   u   v   ɯ,,,*burun
+KarachayBalkar-138_nasalmucusn-1-1,KarachayBalkar-138_nasalmucusn-1,burun boq,546,false,expert,,b   u   r   u   n   +   b   o   q   -   -   -   -   -   -   -   -   -   -,,,*burun
+Karaim-138_nasalmucusn-1-1,Karaim-138_nasalmucusn-1,burun jivisi,546,false,expert,,b   u   r   u   n   +   -   -   -   j   i   v   i   s   i   -   -   -   -,,,*burun
+Khalaj-138_nasalmucusn-1-1,Khalaj-138_nasalmucusn-1,burɯn suvɯ,546,false,expert,,b   u   r   ɯ   n   +   -   -   -   -   -   -   -   -   -   s   u   v   ɯ,,,*burun
 Kumyk-138_nasalmucusn-1-1,Kumyk-138_nasalmucusn-1,burunpoq,546,false,expert,,b   u   r   u   n   -   p   o   q   -   -   -   -   -   -   -   -   -   -,,,*burun
 Nogai-138_nasalmucusn-1-1,Nogai-138_nasalmucusn-1,burɯnboq,546,false,expert,,b   u   r   ɯ   n   -   b   o   q   -   -   -   -   -   -   -   -   -   -,,,*burun
-KarachayBalkar-138_nasalmucusn-2-1,KarachayBalkar-138_nasalmucusn-2,burun boq,547,false,expert,,b   u   r   u   n   _   b   o   q,,,boḳ
+KarachayBalkar-138_nasalmucusn-2-1,KarachayBalkar-138_nasalmucusn-2,burun boq,547,false,expert,,b   u   r   u   n   +   b   o   q,,,boḳ
 Kumyk-138_nasalmucusn-2-1,Kumyk-138_nasalmucusn-2,burunpoq,547,false,expert,,b   u   r   u   n   -   p   o   q,,,boḳ
 Nogai-138_nasalmucusn-2-1,Nogai-138_nasalmucusn-2,burɯnboq,547,false,expert,,b   u   r   ɯ   n   -   b   o   q,,,boḳ
 Karaim-138_nasalmucusn-2-1,Karaim-138_nasalmucusn-2,burun jivisi,548,false,expert,,,,,yivisi
@@ -5183,13 +5183,13 @@ Tatar-159_remainv-1-1,Tatar-159_remainv-1,qal,447,false,expert,,-   -   -   -   
 Tofa-159_remainv-1-1,Tofa-159_remainv-1,qal,447,false,expert,,-   -   -   -   -   -   q   a   l,,,*Kia:l
 Turkish-159_remainv-1-1,Turkish-159_remainv-1,kal,447,false,expert,,-   -   -   -   -   -   k   a   l,,,*Kia:l
 Turkmen-159_remainv-1-1,Turkmen-159_remainv-1,ɢal,447,false,expert,,-   -   -   -   -   -   ɢ   a   l,,,*Kia:l
-Tuvan-159_remainv-1-1,Tuvan-159_remainv-1,artɯp qal,447,false,expert,,a   r   t   ɯ   p   _   q   a   l,,,*Kia:l
+Tuvan-159_remainv-1-1,Tuvan-159_remainv-1,artɯp qal,447,false,expert,,a   r   t   ɯ   p   +   q   a   l,,,*Kia:l
 Uighur-159_remainv-1-1,Uighur-159_remainv-1,qal,447,false,expert,,-   -   -   -   -   -   q   a   l,,,*Kia:l
 Uzbek-159_remainv-1-1,Uzbek-159_remainv-1,qɔl,447,false,expert,,-   -   -   -   -   -   q   ɔ   l,,,*Kia:l
 Yakut-159_remainv-1-1,Yakut-159_remainv-1,χa:l,447,false,expert,,-   -   -   -   -   -   χ   a ː   l,,,*Kia:l
 CodexCumanicus-159_remainv-1-1,CodexCumanicus-159_remainv-1,art,448,false,expert,,a   r   t   -   -   -   -   -   -,,,*ạrt (> лишний)
 SouthAltai-159_remainv-1-1,SouthAltai-159_remainv-1,art,448,false,expert,,a   r   t   -   -   -   -   -   -,,,*ạrt (> лишний)
-Tuvan-159_remainv-2-1,Tuvan-159_remainv-2,artɯp qal,448,false,expert,,a   r   t   ɯ   p   _   q   a   l,,,*ạrt (> лишний)
+Tuvan-159_remainv-2-1,Tuvan-159_remainv-2,artɯp qal,448,false,expert,,a   r   t   ɯ   p   +   q   a   l,,,*ạrt (> лишний)
 Baraba-160_right-1-1,Baraba-160_right-1,oŋ,322,false,expert,,o   ŋ   -,,,*oŋ
 CodexCumanicus-160_right-1-1,CodexCumanicus-160_right-1,oŋ,322,false,expert,,o   ŋ   -,,,*oŋ
 NorthAltai-160_right-1-1,NorthAltai-160_right-1,oŋ,322,false,expert,,o   ŋ   -,,,*oŋ
@@ -5217,7 +5217,7 @@ Uzbek-160_right-1-1,Uzbek-160_right-1,oŋ,322,false,expert,,o   ŋ   -,,,*oŋ
 Yakut-160_right-1-1,Yakut-160_right-1,uŋa,322,false,expert,,u   ŋ   a,,,*oŋ
 Azeri-160_right-1-1,Azeri-160_right-1,saɣ,323,false,expert,,s   a   ɣ   -   -   -   -   -   -   -   -   -   -   -,,,"*sag, see ЭСТЯ 142 + partial cognacy"
 Chuvash-160_right-1-1,Chuvash-160_right-1,sɯldə̈m,323,false,expert,,s   ɯ   -   l   d   ə   m   -   -   -   -   -   -   -,,,"*sag, see ЭСТЯ 142 + partial cognacy"
-Gagauz-160_right-1-1,Gagauz-160_right-1,saa taraf,323,false,expert,,s   a   -   -   -   -   -   a   _   t   a   r   a   f,,,"*sag, see ЭСТЯ 142 + partial cognacy"
+Gagauz-160_right-1-1,Gagauz-160_right-1,saa taraf,323,false,expert,,s   a   -   -   -   -   -   a   +   t   a   r   a   f,,,"*sag, see ЭСТЯ 142 + partial cognacy"
 Salar-160_right-1-1,Salar-160_right-1,"sɯχ, [dial. saχ]",323,false,expert,,s   ɯ   χ   -   -   -   -   -   -   -   -   -   -   -,,,"*sag, see ЭСТЯ 142 + partial cognacy"
 Turkish-160_right-1-1,Turkish-160_right-1,saɣ,323,false,expert,,s   a   ɣ   -   -   -   -   -   -   -   -   -   -   -,,,"*sag, see ЭСТЯ 142 + partial cognacy"
 Turkmen-160_right-1-1,Turkmen-160_right-1,saɣ,323,false,expert,,s   a   ɣ   -   -   -   -   -   -   -   -   -   -   -,,,"*sag, see ЭСТЯ 142 + partial cognacy"
@@ -5272,9 +5272,9 @@ Khakas-162_risev-1-1,Khakas-162_risev-1,? ørle,628,false,expert,,ø   r   l   e
 SarygYugur-162_risev-1-1,SarygYugur-162_risev-1,"? ørle, (jørle, erle, jurɯl)",628,false,expert,,ø   r   l   e   -   -   -   -   -   -   -,,,*ö:r
 Shor-162_risev-1-1,Shor-162_risev-1,ørle,628,false,expert,,ø   r   l   e   -   -   -   -   -   -   -,,,*ö:r
 Uighur-162_risev-2-1,Uighur-162_risev-2,? ørlɛ,628,false,expert,,ø   r   l   æ   -   -   -   -   -   -   -,,,*ö:r
-Yakut-162_risev-1-1,Yakut-162_risev-1,ørø taɣɯs,628,false,expert,,ø   r   -   -   ø   _   t   a   ɣ   ɯ   s,,,*ö:r
+Yakut-162_risev-1-1,Yakut-162_risev-1,ørø taɣɯs,628,false,expert,,ø   r   -   -   ø   +   t   a   ɣ   ɯ   s,,,*ö:r
 NorthAltai-162_risev-2-1,NorthAltai-162_risev-2,tanza,629,false,expert,,-   -   -   -   t   a   n   -   z   a,,,taɣïš
-Yakut-162_risev-2-1,Yakut-162_risev-2,ørø taɣɯs,629,false,expert,,ø   r   ø   _   t   a   ɣ   ɯ   s   -,,,taɣïš
+Yakut-162_risev-2-1,Yakut-162_risev-2,ørø taɣɯs,629,false,expert,,ø   r   ø   +   t   a   ɣ   ɯ   s   -,,,taɣïš
 NorthAltai-162_risev-3-1,NorthAltai-162_risev-3,myn,630,false,expert,,m   y   n,,,*bi:n
 Gagauz-162_risev-1-1,Gagauz-162_risev-1,pin,630,false,expert,,p   i   n,,,*bi:n
 Tatar-162_risev-2-1,Tatar-162_risev-2,men,630,false,expert,,m   e   n,,,*bi:n
@@ -5869,15 +5869,15 @@ Tofa-180_singv-1-1,Tofa-180_singv-1,ɯrla,809,false,expert,,ɯ   r   l   a,,,ïr
 Tuvan-180_singv-1-1,Tuvan-180_singv-1,ɯrla,809,false,expert,,ɯ   r   l   a,,,ïrla
 Yakut-180_singv-1-1,Yakut-180_singv-1,ɯlla:,809,false,expert,,ɯ   l   l   a ː,,,ïrla
 Azeri-180_singv-1-1,Azeri-180_singv-1,oχu,810,false,expert,,-   -   -   -   -   -   o   χ   u,,,oḳu
-Karaim-180_singv-2-1,Karaim-180_singv-2,ʃɯra oχu,810,false,expert,,ʃ   ɯ   r   a   _   -   o   χ   u,,,oḳu
+Karaim-180_singv-2-1,Karaim-180_singv-2,ʃɯra oχu,810,false,expert,,ʃ   ɯ   r   a   +   -   o   χ   u,,,oḳu
 Khalaj-180_singv-1-1,Khalaj-180_singv-1,"hoqu, hoqo",810,false,expert,,-   -   -   -   -   h   o   q   u,,,oḳu
 Karaim-180_singv-3-1,Karaim-180_singv-3,ʃɯra oχu,811,false,expert,,,,,šïra
 SouthAltai-180_singv-1-1,SouthAltai-180_singv-1,qoʒondo,812,false,expert,,q   o   ʒ   o   n   d   o,,,ḳožondo
 KaraKalpak-180_singv-1-1,KaraKalpak-180_singv-1,ajt,813,false,expert,,-   -   -   -   -   -   -   -   -   -   -   a   j   t,,,*ajt
 Kazakh-180_singv-1-1,Kazakh-180_singv-1,ajt,813,false,expert,,-   -   -   -   -   -   -   -   -   -   -   a   j   t,,,*ajt
 Turkmen-180_singv-1-1,Turkmen-180_singv-1,ajt,813,false,expert,,-   -   -   -   -   -   -   -   -   -   -   a   j   t,,,*ajt
-Uighur-180_singv-1-1,Uighur-180_singv-1,naχʃa ejt,813,false,expert,,n   a   χ   ʃ   a   -   -   -   -   -   _   e   j   t,,,*ajt
-Uzbek-180_singv-1-1,Uzbek-180_singv-1,aʃula ajt,813,false,expert,,-   -   -   -   -   a   ʃ   u   l   a   _   a   j   t,,,*ajt
+Uighur-180_singv-1-1,Uighur-180_singv-1,naχʃa ejt,813,false,expert,,n   a   χ   ʃ   a   -   -   -   -   -   +   e   j   t,,,*ajt
+Uzbek-180_singv-1-1,Uzbek-180_singv-1,aʃula ajt,813,false,expert,,-   -   -   -   -   a   ʃ   u   l   a   +   a   j   t,,,*ajt
 Turkish-180_singv-1-1,Turkish-180_singv-1,ʃarkɯ søjle,814,false,expert,,,,,söjle
 Chuvash-180_singv-1-1,Chuvash-180_singv-1,jurla,815,false,expert,,,,,jorla
 Gagauz-180_singv-1-1,Gagauz-180_singv-1,(tyrky) ʨal,816,false,expert,,ʨ   a   l,,,čal
@@ -6164,8 +6164,8 @@ Turkmen-189_snaken-1-1,Turkmen-189_snaken-1,jɯlan,355,false,expert,,j   ɯ   l 
 Tuvan-189_snaken-1-1,Tuvan-189_snaken-1,ʨɯlan,355,false,expert,,t ʃ   ɯ   l   a   n,,,*jï:lan
 Uighur-189_snaken-1-1,Uighur-189_snaken-1,"ilan, ʒilan",355,false,expert,,-   i   l   a   n,,,*jï:lan
 Uzbek-189_snaken-1-1,Uzbek-189_snaken-1,ilɔn,355,false,expert,,-   i   l   ɔ   n,,,*jï:lan
-Yakut-189_snaken-1-1,Yakut-189_snaken-1,? erien yøn (kɯ:l),356,false,expert,,e   r   i   e   n   _   y   ø   n,,,[erien < Mong.] üön < *sɨbuĺgan; (kï:l)
-Tofa-189_snaken-1-1,Tofa-189_snaken-1,ʨer balɯ:,357,false,expert,,t ʃ   e   r   _   b   a   l   ɯ ː,,,*jẹr=ba:lïkï
+Yakut-189_snaken-1-1,Yakut-189_snaken-1,? erien yøn (kɯ:l),356,false,expert,,e   r   i   e   n   +   y   ø   n,,,[erien < Mong.] üön < *sɨbuĺgan; (kï:l)
+Tofa-189_snaken-1-1,Tofa-189_snaken-1,ʨer balɯ:,357,false,expert,,t ʃ   e   r   +   b   a   l   ɯ ː,,,*jẹr=ba:lïkï
 MiddleChulym-189_snaken-1-1,MiddleChulym-189_snaken-1,uzunɣurt,358,false,expert,,,,,*uŕɨn=Ku:rt
 Baraba-190_snown-1-1,Baraba-190_snown-1,qar,834,false,expert,,q   a   r,,,ḳar
 CodexCumanicus-190_snown-1-1,CodexCumanicus-190_snown-1,qar,834,false,expert,,q   a   r,,,ḳar
@@ -6333,10 +6333,10 @@ Turkmen-194_spinv-1-1,Turkmen-194_spinv-1,egir,651,false,expert,,-   e   -   g  
 Uighur-194_spinv-1-1,Uighur-194_spinv-1,"egɛr, igɛr",651,false,expert,,-   e   -   g   æ   r   -   -,,,*egir
 Uzbek-194_spinv-1-1,Uzbek-194_spinv-1,ijgir,651,false,expert,,-   i   j   g   i   r   -   -,,,*egir
 Yakut-194_spinv-1-1,Yakut-194_spinv-1,ør,652,false,expert,,,,,*ȫr
-Bashkir-194_spinv-1-1,Bashkir-194_spinv-1,(jep) ilɛ,656,false,expert,,j   e   p   _   -   -   -   i   l   ɛ   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,jip
-Gagauz-194_spinv-1-1,Gagauz-194_spinv-1,iplik iʃle,656,false,expert,,-   i   p   l   i   k   _   -   -   -   -   -   -   -   -   -   i   ʃ   l   e   -   -   -   -,,,jip
-Nogai-194_spinv-2-1,Nogai-194_spinv-2,(jip) ijir,656,false,expert,,j   i   p   _   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   i   j   i   r,,,jip
-CrimeanTatar-194_spinv-1-1,CrimeanTatar-194_spinv-1,(jip) ʨijrat,656,false,expert,,j   i   p   _   -   -   -   -   -   -   ʨ   i   j   r   a   t   -   -   -   -   -   -   -   -,,,čijrat
+Bashkir-194_spinv-1-1,Bashkir-194_spinv-1,(jep) ilɛ,656,false,expert,,j   e   p   +   -   -   -   i   l   ɛ   -   -   -   -   -   -   -   -   -   -   -   -   -   -,,,jip
+Gagauz-194_spinv-1-1,Gagauz-194_spinv-1,iplik iʃle,656,false,expert,,-   i   p   l   i   k   +   -   -   -   -   -   -   -   -   -   i   ʃ   l   e   -   -   -   -,,,jip
+Nogai-194_spinv-2-1,Nogai-194_spinv-2,(jip) ijir,656,false,expert,,j   i   p   +   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   i   j   i   r,,,jip
+CrimeanTatar-194_spinv-1-1,CrimeanTatar-194_spinv-1,(jip) ʨijrat,656,false,expert,,j   i   p   +   -   -   -   -   -   -   ʨ   i   j   r   a   t   -   -   -   -   -   -   -   -,,,čijrat
 Baraba-195_spitv-1-1,Baraba-195_spitv-1,tøkyr,835,false,expert,,t   ø   -   -   k   y   r,,,tükür
 NorthAltai-195_spitv-1-1,NorthAltai-195_spitv-1,tykyr,835,false,expert,,t   y   -   -   k   y   r,,,tükür
 SouthAltai-195_spitv-1-1,SouthAltai-195_spitv-1,tykyr,835,false,expert,,t   y   -   -   k   y   r,,,tükür
@@ -6898,7 +6898,7 @@ Bashkir-212_there-1-1,Bashkir-212_there-1,unda,513,false,expert,,-   u   n   d  
 Chuvash-212_there-1-1,Chuvash-212_there-1,unda,513,false,expert,,-   u   n   d   a   -   -   -   -   -   -   -   -,,,anda
 CrimeanTatar-212_there-1-1,CrimeanTatar-212_there-1,anda,513,false,expert,,-   a   n   d   a   -   -   -   -   -   -   -   -,,,anda
 Dolgan-212_there-1-1,Dolgan-212_there-1,(h)onno,513,false,expert,,h   o   n   n   o   -   -   -   -   -   -   -   -,,,anda
-KaraKalpak-212_there-1-1,KaraKalpak-212_there-1,"ana kɛrada, ? <onda>",513,false,expert,,-   a   n   -   -   a   _   k   æ   r   a   d   a,,,anda
+KaraKalpak-212_there-1-1,KaraKalpak-212_there-1,"ana kɛrada, ? <onda>",513,false,expert,,-   a   n   -   -   a   +   k   æ   r   a   d   a,,,anda
 KarachayBalkar-212_there-1-1,KarachayBalkar-212_there-1,anda,513,false,expert,,-   a   n   d   a   -   -   -   -   -   -   -   -,,,anda
 Karaim-212_there-1-1,Karaim-212_there-1,anda,513,false,expert,,-   a   n   d   a   -   -   -   -   -   -   -   -,,,anda
 Kazakh-212_there-1-1,Kazakh-212_there-1,onda,513,false,expert,,-   o   n   d   a   -   -   -   -   -   -   -   -,,,anda
@@ -6913,14 +6913,14 @@ Shor-212_there-1-1,Shor-212_there-1,anda,513,false,expert,,-   a   n   d   a   -
 Tatar-212_there-1-1,Tatar-212_there-1,anda,513,false,expert,,-   a   n   d   a   -   -   -   -   -   -   -   -,,,anda
 Tofa-212_there-1-1,Tofa-212_there-1,ɯnda,513,false,expert,,-   ɯ   n   d   a   -   -   -   -   -   -   -   -,,,anda
 Tuvan-212_there-1-1,Tuvan-212_there-1,ɯnda,513,false,expert,,-   ɯ   n   d   a   -   -   -   -   -   -   -   -,,,anda
-Uighur-212_there-1-1,Uighur-212_there-1,u jɛrdɛ,376,false,expert,,u   -   _   j   æ   r   d   æ,,,anda
+Uighur-212_there-1-1,Uighur-212_there-1,u jɛrdɛ,376,false,expert,,u   -   +   j   æ   r   d   æ,,,anda
 Yakut-212_there-1-1,Yakut-212_there-1,onno,513,false,expert,,-   o   n ː   -   o   -   -   -   -   -   -   -   -,,,anda
 Azeri-212_there-1-1,Azeri-212_there-1,orada,512,false,expert,,o   r   a   d   a,,,ora
 Gagauz-212_there-1-1,Gagauz-212_there-1,"orada, orasɯ",512,false,expert,,o   r   a   d   a,,,ora
 Khalaj-212_there-1-1,Khalaj-212_there-1,uo:ra,512,false,expert,,o ː   r   a   -   -,,,ora
 Turkish-212_there-1-1,Turkish-212_there-1,orada,512,false,expert,,o   r   a   d   a,,,ora
-Turkmen-212_there-1-1,Turkmen-212_there-1,"ol jerde, o(l) tajda",376,false,expert,,o   l   _   j   e   r   d   e,,,*ol
-Uzbek-212_there-1-1,Uzbek-212_there-1,o jerda,376,false,expert,,o   -   _   j   e   r   d   a,,,*ol
+Turkmen-212_there-1-1,Turkmen-212_there-1,"ol jerde, o(l) tajda",376,false,expert,,o   l   +   j   e   r   d   e,,,*ol
+Uzbek-212_there-1-1,Uzbek-212_there-1,o jerda,376,false,expert,,o   -   +   j   e   r   d   a,,,*ol
 CodexCumanicus-213_they-1-1,CodexCumanicus-213_they-1,alar,862,false,expert,,-   a   -   l   a   r   -   -   -   -   -,,,o-PL
 NorthAltai-213_they-1-1,NorthAltai-213_they-1,ɯlar,862,false,expert,,-   ɯ   -   l   a   r   -   -   -   -   -,,,o-PL
 OldUyghur-213_they-1-1,OldUyghur-213_they-1,olar,862,false,expert,,-   o   -   l   a   r   -   -   -   -   -,,,o-PL
@@ -7018,11 +7018,11 @@ Bashkir-215_thighn-1-1,Bashkir-215_thighn-1,bot,210,false,expert,,-   -   -   - 
 CrimeanTatar-215_thighn-2-1,CrimeanTatar-215_thighn-2,but,210,false,expert,,-   -   -   -   -   -   b   u   t,,,*bu:t
 Dolgan-215_thighn-1-1,Dolgan-215_thighn-1,bu:t,210,false,expert,,-   -   -   -   -   -   b   u ː   t,,,*bu:t
 Gagauz-215_thighn-1-1,Gagauz-215_thighn-1,but,210,false,expert,,-   -   -   -   -   -   b   u   t,,,*bu:t
-KarachayBalkar-215_thighn-1-1,KarachayBalkar-215_thighn-1,bazɯq but,210,false,expert,,b   a   z   ɯ   q   _   b   u   t,,,*bu:t
+KarachayBalkar-215_thighn-1-1,KarachayBalkar-215_thighn-1,bazɯq but,210,false,expert,,b   a   z   ɯ   q   +   b   u   t,,,*bu:t
 Karaim-215_thighn-1-1,Karaim-215_thighn-1,but,210,false,expert,,-   -   -   -   -   -   b   u   t,,,*bu:t
 Khakas-215_thighn-1-1,Khakas-215_thighn-1,put,210,false,expert,,-   -   -   -   -   -   p   u   t,,,*bu:t
 Khalaj-215_thighn-1-1,Khalaj-215_thighn-1,bu:ut,210,false,expert,,-   -   -   -   -   -   b   u ː   t,,,*bu:t
-Kumyk-215_thighn-1-1,Kumyk-215_thighn-1,bazɯq but,210,false,expert,,b   a   z   ɯ   q   _   b   u   t,,,*bu:t
+Kumyk-215_thighn-1-1,Kumyk-215_thighn-1,bazɯq but,210,false,expert,,b   a   z   ɯ   q   +   b   u   t,,,*bu:t
 MiddleChulym-215_thighn-2-1,MiddleChulym-215_thighn-2,put,210,false,expert,,-   -   -   -   -   -   p   u   t,,,*bu:t
 Nogai-215_thighn-4-1,Nogai-215_thighn-4,? but,210,false,expert,,-   -   -   -   -   -   b   u   t,,,*bu:t
 SarygYugur-215_thighn-1-1,SarygYugur-215_thighn-1,? put,210,false,expert,,-   -   -   -   -   -   p   u   t,,,*bu:t
@@ -7329,7 +7329,7 @@ Shor-223_tobecomerottenv-1-1,Shor-223_tobecomerottenv-1,irikte,787,false,expert,
 Tuvan-223_tobecomerottenv-1-1,Tuvan-223_tobecomerottenv-1,iri,787,false,expert,,-   i   r   i   -   -   -,,,iri
 Dolgan-223_tobecomerottenv-1-1,Dolgan-223_tobecomerottenv-1,hɯtɯj,788,false,expert,,h   ɯ   t   ɯ   j   -   -   -   -   -   -,,,*jïd
 Khakas-223_tobecomerottenv-2-1,Khakas-223_tobecomerottenv-2,ʨɯzɯ,788,false,expert,,t ʃ   ɯ   z   ɯ   -   -   -   -   -   -   -,,,*jïd
-Khalaj-223_tobecomerottenv-2-1,Khalaj-223_tobecomerottenv-2,jɯd køtyr,788,false,expert,,j   ɯ   d   -   -   _   k   ø   t   y   r,,,*jïd
+Khalaj-223_tobecomerottenv-2-1,Khalaj-223_tobecomerottenv-2,jɯd køtyr,788,false,expert,,j   ɯ   d   -   -   +   k   ø   t   y   r,,,*jïd
 SarygYugur-223_tobecomerottenv-1-1,SarygYugur-223_tobecomerottenv-1,jiz,788,false,expert,,j   i   z   -   -   -   -   -   -   -   -,,,*jïd
 Tofa-223_tobecomerottenv-1-1,Tofa-223_tobecomerottenv-1,ʨɯdɯ,788,false,expert,,t ʃ   ɯ   d   ɯ   -   -   -   -   -   -   -,,,*jïd
 Tuvan-223_tobecomerottenv-2-1,Tuvan-223_tobecomerottenv-2,ʨɯdɯ,788,false,expert,,t ʃ   ɯ   d   ɯ   -   -   -   -   -   -   -,,,*jïd
@@ -7840,9 +7840,9 @@ Tuvan-239_when-1-1,Tuvan-239_when-1,qaʒan,892,false,expert,,q   a   -   ʒ   a 
 Uighur-239_when-1-1,Uighur-239_when-1,qaʨan,892,false,expert,,q   a   -   t ʃ   a   n,,,ḳačan
 Uzbek-239_when-1-1,Uzbek-239_when-1,qaʨɔn,892,false,expert,,q   a   -   t ʃ   ɔ   n,,,ḳačan
 Yakut-239_when-1-1,Yakut-239_when-1,χahan,892,false,expert,,χ   a   -   h   a   n,,,ḳačan
-CrimeanTatar-239_when-1-1,CrimeanTatar-239_when-1,ne vaqɯt,893,false,expert,,n   e   _   -   -   -   -   -   v   a   q   ɯ   t,,,ne + 'time'
-Gagauz-239_when-2-1,Gagauz-239_when-2,nezaman,893,false,expert,,n   e   _   z   a   m   a   n   -   -   -   -   -,,,ne + 'time'
-Turkish-239_when-1-1,Turkish-239_when-1,ne zaman,893,false,expert,,n   e   _   z   a   m   a   n   -   -   -   -   -,,,ne + 'time'
+CrimeanTatar-239_when-1-1,CrimeanTatar-239_when-1,ne vaqɯt,893,false,expert,,n   e   +   -   -   -   -   -   v   a   q   ɯ   t,,,ne + 'time'
+Gagauz-239_when-2-1,Gagauz-239_when-2,nezaman,893,false,expert,,n   e   +   z   a   m   a   n   -   -   -   -   -,,,ne + 'time'
+Turkish-239_when-1-1,Turkish-239_when-1,ne zaman,893,false,expert,,n   e   +   z   a   m   a   n   -   -   -   -   -,,,ne + 'time'
 Baraba-240_where-1-1,Baraba-240_where-1,qajda,647,false,expert,,q   a   j   -   -   -   d   a   -,,,ḳajda
 CodexCumanicus-240_where-1-1,CodexCumanicus-240_where-1,qajda,647,false,expert,,q   a   j   -   -   -   d   a   -,,,ḳajda
 NorthAltai-240_where-1-1,NorthAltai-240_where-1,qajt,647,false,expert,,q   a   j   -   -   -   t   -   -,,,ḳajda
@@ -7871,17 +7871,17 @@ Tuvan-240_where-1-1,Tuvan-240_where-1,"qajda, qaja:",647,false,expert,,q   a   j
 Uighur-240_where-1-1,Uighur-240_where-1,qeni,647,false,expert,,q   e   -   -   -   -   n   -   i,,,ḳajda
 Uzbek-240_where-1-1,Uzbek-240_where-1,qajerda,647,false,expert,,q   a   j   -   e   r   d   a   -,,,ḳajda
 Yakut-240_where-1-1,Yakut-240_where-1,χanna,647,false,expert,,χ   a   -   -   -   -   n ː   a   -,,,ḳajda
-CrimeanTatar-240_where-2-1,CrimeanTatar-240_where-2,ne jerde,648,false,expert,,n   e   -   -   -   -   -   _   j   e   r   d   e,,,jerde
-KaraKalpak-240_where-2-1,KaraKalpak-240_where-2,qaj ʒerde,648,false,expert,,-   -   q   a   j   -   -   _   ʒ   e   r   d   e,,,jerde
-Kumyk-240_where-2-1,Kumyk-240_where-2,ne jerde,648,false,expert,,n   e   -   -   -   -   -   _   j   e   r   d   e,,,jerde
+CrimeanTatar-240_where-2-1,CrimeanTatar-240_where-2,ne jerde,648,false,expert,,n   e   -   -   -   -   -   +   j   e   r   d   e,,,jerde
+KaraKalpak-240_where-2-1,KaraKalpak-240_where-2,qaj ʒerde,648,false,expert,,-   -   q   a   j   -   -   +   ʒ   e   r   d   e,,,jerde
+Kumyk-240_where-2-1,Kumyk-240_where-2,ne jerde,648,false,expert,,n   e   -   -   -   -   -   +   j   e   r   d   e,,,jerde
 Nogai-240_where-2-1,Nogai-240_where-2,? qajerde (qajsɯ jerde),648,false,expert,,-   -   q   a   -   -   -   -   j   e   r   d   e,,,jerde
-Uighur-240_where-2-1,Uighur-240_where-2,"qajsi jerde, qɛjɛrdɛ",648,false,expert,,-   -   q   a   j   s   i   _   j   e   r   d   e,,,jerde
+Uighur-240_where-2-1,Uighur-240_where-2,"qajsi jerde, qɛjɛrdɛ",648,false,expert,,-   -   q   a   j   s   i   +   j   e   r   d   e,,,jerde
 Uzbek-240_where-2-1,Uzbek-240_where-2,qajerda,648,false,expert,,-   -   q   a   -   -   -   -   j   e   r   d   a,,,jerde
 Azeri-240_where-1-1,Azeri-240_where-1,harada,649,false,expert,,,,,harada
-CrimeanTatar-240_where-3-1,CrimeanTatar-240_where-3,ne jerde,650,false,expert,,n   e   _   j   e   r   d   e   -   -   -   -   -,,,nirede
+CrimeanTatar-240_where-3-1,CrimeanTatar-240_where-3,ne jerde,650,false,expert,,n   e   +   j   e   r   d   e   -   -   -   -   -,,,nirede
 Gagauz-240_where-1-1,Gagauz-240_where-1,neredi,650,false,expert,,n   e   -   -   -   -   -   -   -   r   e   d   i,,,nirede
 Khalaj-240_where-2-1,Khalaj-240_where-2,"nie:'rɛ, nie:'dɛ",650,false,expert,,n   i   -   -   e ː   r   -   -   ɛ   -   -   -   -,,,nirede
-Kumyk-240_where-3-1,Kumyk-240_where-3,ne jerde,650,false,expert,,n   e   _   j   e   r   d   e   -   -   -   -   -,,,nirede
+Kumyk-240_where-3-1,Kumyk-240_where-3,ne jerde,650,false,expert,,n   e   +   j   e   r   d   e   -   -   -   -   -,,,nirede
 Turkish-240_where-1-1,Turkish-240_where-1,nerede,650,false,expert,,n   e   -   -   -   -   -   -   -   r   e   d   e,,,nirede
 Turkmen-240_where-1-1,Turkmen-240_where-1,nirede,650,false,expert,,n   i   -   -   -   -   -   -   -   r   e   d   e,,,nirede
 Baraba-241_which-1-1,Baraba-241_which-1,qajsɯ,436,false,expert,,q   a   j   -   (   -   )   s   ɯ   -   -   -   -,,,ḳaj
@@ -8121,36 +8121,36 @@ Bashkir-248_womann-1-1,Bashkir-248_womann-1,qatɯn,589,false,expert,,q   a   t  
 CrimeanTatar-248_womann-1-1,CrimeanTatar-248_womann-1,? qadɯn,589,false,expert,,q   a   d   ɯ   n   -   -   -   -   -,,,ḳatïn / ḳat
 KaraKalpak-248_womann-1-1,KaraKalpak-248_womann-1,qatɯn,589,false,expert,,q   a   t   ɯ   n   -   -   -   -   -,,,ḳatïn / ḳat
 Karaim-248_womann-1-1,Karaim-248_womann-1,qatɯn,589,false,expert,,q   a   t   ɯ   n   -   -   -   -   -,,,ḳatïn / ḳat
-Kumyk-248_womann-1-1,Kumyk-248_womann-1,qatɯn giʃi,589,false,expert,,q   a   t   ɯ   n   _   g   i   ʃ   i,,,ḳatïn / ḳat
+Kumyk-248_womann-1-1,Kumyk-248_womann-1,qatɯn giʃi,589,false,expert,,q   a   t   ɯ   n   +   g   i   ʃ   i,,,ḳatïn / ḳat
 MiddleChulym-248_womann-1-1,MiddleChulym-248_womann-1,qatkɘzɘ,589,false,expert,,q   a   t   -   -   -   k   ĭ   z   ĭ,,,ḳatïn / ḳat
 Nogai-248_womann-2-1,Nogai-248_womann-2,χatɯn,589,false,expert,,χ   a   t   ɯ   n   -   -   -   -   -,,,ḳatïn / ḳat
-Salar-248_womann-1-1,Salar-248_womann-1,qa:tɯn ke:ʃ,589,false,expert,,q   a ː   t   ɯ   n   _   k   e ː   ʃ   -,,,ḳatïn / ḳat
+Salar-248_womann-1-1,Salar-248_womann-1,qa:tɯn ke:ʃ,589,false,expert,,q   a ː   t   ɯ   n   +   k   e ː   ʃ   -,,,ḳatïn / ḳat
 Tatar-248_womann-2-1,Tatar-248_womann-2,χatɯn,589,false,expert,,χ   a   t   ɯ   n   -   -   -   -   -,,,ḳatïn / ḳat
 Turkish-248_womann-1-1,Turkish-248_womann-1,kadɯn,589,false,expert,,k   a   d   ɯ   n   -   -   -   -   -,,,ḳatïn / ḳat
 Uzbek-248_womann-1-1,Uzbek-248_womann-1,χɔtin (kiʃi),589,false,expert,,χ   ɔ   t   i   n   -   -   -   -   -,,,ḳatïn / ḳat
 CrimeanTatar-248_womann-2-1,CrimeanTatar-248_womann-2,? qɯsqajaqlɯ,590,false,expert,,q   ɯ   s   q   a   j   a   q   l   ɯ,,,ḳïsḳajaḳlï
 Nogai-248_womann-3-1,Nogai-248_womann-3,qɯsqajaqlɯ,590,false,expert,,q   ɯ   s   q   a   j   a   q   l   ɯ,,,ḳïsḳajaḳlï
 CodexCumanicus-248_womann-2-1,CodexCumanicus-248_womann-2,tusi,591,false,expert,,t   u   s   i   -   -   -   -   -   -   -   -,,,tiši
-NorthAltai-248_womann-2-1,NorthAltai-248_womann-2,tiʒi_kiʒi,591,false,expert,,t   i   ʒ   i   _   k   i   ʒ   i   -   -   -,,,tiši
+NorthAltai-248_womann-2-1,NorthAltai-248_womann-2,tiʒi+kiʒi,591,false,expert,,t   i   ʒ   i   +   k   i   ʒ   i   -   -   -,,,tiši
 OldUyghur-248_womann-1-1,OldUyghur-248_womann-1,tiʃi,591,false,expert,,t   i   ʃ   i   -   -   -   -   -   -   -   -,,,tiši
 KarachayBalkar-248_womann-1-1,KarachayBalkar-248_womann-1,tiʃirɯw,591,false,expert,,t   i   ʃ   i   -   -   -   -   -   r   ɯ   w,,,tiši
-Shor-248_womann-1-1,Shor-248_womann-1,tiʒi kiʒi,591,false,expert,,t   i   ʒ   i   _   k   i   ʒ   i   -   -   -,,,tiši
+Shor-248_womann-1-1,Shor-248_womann-1,tiʒi kiʒi,591,false,expert,,t   i   ʒ   i   +   k   i   ʒ   i   -   -   -,,,tiši
 NorthAltai-248_womann-3-1,NorthAltai-248_womann-3,eptɕi,592,false,expert,,-   -   -   e   p   t ʃ   i   -   -   -   -   -   -   -   -,,,epči
 OldUyghur-248_womann-2-1,OldUyghur-248_womann-2,evtɕi,592,false,expert,,-   -   -   e   v   t ʃ   i   -   -   -   -   -   -   -   -,,,epči
 SouthAltai-248_womann-1-1,SouthAltai-248_womann-1,yjkiʒi,592,false,expert,,-   -   -   y   j   -   -   -   k   i   ʒ   i   -   -   -,,,epči
 Chuvash-248_womann-2-1,Chuvash-248_womann-2,χɘrarə̈m,592,false,expert,,χ   ĭ   r   a   -   -   -   -   -   -   -   -   r   ə   m,,,epči
-Khakas-248_womann-1-1,Khakas-248_womann-1,ipʨɘ kɘzɘ,592,false,expert,,-   -   -   i   p   t ʃ   ĭ   _   k   ĭ   z   ĭ   -   -   -,,,epči
-Shor-248_womann-2-1,Shor-248_womann-2,? eptɕi (kiʒi),592,false,expert,,-   -   -   e   p   t ʃ   i   _   k   i   ʒ   i   -   -   -,,,epči
-NorthAltai-248_womann-4-1,NorthAltai-248_womann-4,tiʒi_kiʒi,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   t   i   ʒ   i   _   k   i   ʒ   i,,,kiši
+Khakas-248_womann-1-1,Khakas-248_womann-1,ipʨɘ kɘzɘ,592,false,expert,,-   -   -   i   p   t ʃ   ĭ   +   k   ĭ   z   ĭ   -   -   -,,,epči
+Shor-248_womann-2-1,Shor-248_womann-2,? eptɕi (kiʒi),592,false,expert,,-   -   -   e   p   t ʃ   i   +   k   i   ʒ   i   -   -   -,,,epči
+NorthAltai-248_womann-4-1,NorthAltai-248_womann-4,tiʒi+kiʒi,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   t   i   ʒ   i   +   k   i   ʒ   i,,,kiši
 SouthAltai-248_womann-2-1,SouthAltai-248_womann-2,yjkiʒi,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   y   j   -   -   -   -   -   -   -   k   i   ʒ   i,,,kiši
-Khakas-248_womann-2-1,Khakas-248_womann-2,ipʨɘ kɘzɘ,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   i   p   t ʃ   ĭ   -   -   -   -   _   k   ĭ   z   ĭ,,,kiši
+Khakas-248_womann-2-1,Khakas-248_womann-2,ipʨɘ kɘzɘ,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   i   p   t ʃ   ĭ   -   -   -   -   +   k   ĭ   z   ĭ,,,kiši
 Khalaj-248_womann-1-1,Khalaj-248_womann-1,kiʃi,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   k   i   ʃ   i,,,kiši
-Kumyk-248_womann-2-1,Kumyk-248_womann-2,qatɯn giʃi,593,false,expert,,-   -   -   -   -   -   -   q   a   t   ɯ   n   -   -   -   -   -   -   -   -   _   g   i   ʃ   i,,,kiši
+Kumyk-248_womann-2-1,Kumyk-248_womann-2,qatɯn giʃi,593,false,expert,,-   -   -   -   -   -   -   q   a   t   ɯ   n   -   -   -   -   -   -   -   -   +   g   i   ʃ   i,,,kiši
 MiddleChulym-248_womann-2-1,MiddleChulym-248_womann-2,qatkɘzɘ,593,false,expert,,-   -   -   -   -   -   -   q   a   t   -   -   -   -   -   -   -   -   -   -   -   k   ĭ   z   ĭ,,,kiši
-Salar-248_womann-2-1,Salar-248_womann-2,qa:tɯn ke:ʃ,593,false,expert,,-   -   -   -   -   -   -   q   a ː   t   ɯ   n   -   -   -   -   -   -   -   -   _   k   e ː   ʃ   -,,,kiši
-Shor-248_womann-3-1,Shor-248_womann-3,tiʒi kiʒi,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   t   i   ʒ   i   _   k   i   ʒ   i,,,kiši
-Tuvan-248_womann-1-1,Tuvan-248_womann-1,? χereeʒen (kiʒi),593,false,expert,,χ   e   r   e ː   ʒ   e   n   -   -   -   -   -   -   -   -   -   -   -   -   -   _   k   i   ʒ   i,,,kiši
-Uzbek-248_womann-2-1,Uzbek-248_womann-2,? χɔtin (kiʃi),593,false,expert,,-   -   -   -   -   -   -   χ   ɔ   t   i   n   -   -   -   -   -   -   -   -   _   k   i   ʃ   i,,,kiši
+Salar-248_womann-2-1,Salar-248_womann-2,qa:tɯn ke:ʃ,593,false,expert,,-   -   -   -   -   -   -   q   a ː   t   ɯ   n   -   -   -   -   -   -   -   -   +   k   e ː   ʃ   -,,,kiši
+Shor-248_womann-3-1,Shor-248_womann-3,tiʒi kiʒi,593,false,expert,,-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   t   i   ʒ   i   +   k   i   ʒ   i,,,kiši
+Tuvan-248_womann-1-1,Tuvan-248_womann-1,? χereeʒen (kiʒi),593,false,expert,,χ   e   r   e ː   ʒ   e   n   -   -   -   -   -   -   -   -   -   -   -   -   -   +   k   i   ʒ   i,,,kiši
+Uzbek-248_womann-2-1,Uzbek-248_womann-2,? χɔtin (kiʃi),593,false,expert,,-   -   -   -   -   -   -   χ   ɔ   t   i   n   -   -   -   -   -   -   -   -   +   k   i   ʃ   i,,,kiši
 SarygYugur-248_womann-1-1,SarygYugur-248_womann-1,"sɛʥdɯɣ, (ʃɛʥdɯq)",594,false,expert,,s   æ   ʒ   d   ɯ   ɣ,,,*siačlïg
 Gagauz-248_womann-1-1,Gagauz-248_womann-1,karɯ,595,false,expert,,k   a   r   ɯ   -   -   -   -   -,,,*Kạrï
 Tofa-248_womann-1-1,Tofa-248_womann-1,qoˁrhɯn'aq,595,false,expert,,q   o ˁ   r   -   h   ɯ   n ˈ   a   q,,,*Kạrï
@@ -8199,7 +8199,7 @@ Tatar-250_woodsforestn-1-1,Tatar-250_woodsforestn-1,urman,506,false,expert,,-   
 Turkish-250_woodsforestn-1-1,Turkish-250_woodsforestn-1,orman,506,false,expert,,-   o   r   m   a   n,,,*orman
 Uighur-250_woodsforestn-1-1,Uighur-250_woodsforestn-1,orman,506,false,expert,,-   o   r   m   a   n,,,*orman
 Uzbek-250_woodsforestn-1-1,Uzbek-250_woodsforestn-1,ormɔn,506,false,expert,,-   o   r   m   ɔ   n,,,*orman
-NorthAltai-250_woodsforestn-1-1,NorthAltai-250_woodsforestn-1,aɣaʃ_arazɯ,507,false,expert,,a   -   ɣ   a   ʃ   _   -   -   a   r   a   z   ɯ   -   -   -   -,,,*ï(ń)gač
+NorthAltai-250_woodsforestn-1-1,NorthAltai-250_woodsforestn-1,aɣaʃ+arazɯ,507,false,expert,,a   -   ɣ   a   ʃ   +   -   -   a   r   a   z   ɯ   -   -   -   -,,,*ï(ń)gač
 SouthAltai-250_woodsforestn-1-1,SouthAltai-250_woodsforestn-1,aɣaʃ,507,false,expert,,a   -   ɣ   a   ʃ   -   -   -   -   -   -   -   -   -   -   -   -,,,*ï(ń)gač
 Azeri-250_woodsforestn-1-1,Azeri-250_woodsforestn-1,? aɣaʨ,507,false,expert,,a   -   ɣ   a   t ʃ   -   -   -   -   -   -   -   -   -   -   -   -,,,*ï(ń)gač
 Dolgan-250_woodsforestn-1-1,Dolgan-250_woodsforestn-1,mas,507,false,expert,,-   m   -   a   s   -   -   -   -   -   -   -   -   -   -   -   -,,,*ï(ń)gač
@@ -8209,12 +8209,12 @@ Kumyk-250_woodsforestn-2-1,Kumyk-250_woodsforestn-2,aγaʨlɯq,507,false,expert,
 MiddleChulym-250_woodsforestn-1-1,MiddleChulym-250_woodsforestn-1,aaʨ(aro:zə),507,false,expert,,a ː   -   -   -   ʨ   -   -   -   a   r   o ː   z   ə   -   -   -   -,,,*ï(ń)gač
 Nogai-250_woodsforestn-2-1,Nogai-250_woodsforestn-2,aɣaʃlɯq,507,false,expert,,a   -   ɣ   a   ʃ   l   ɯ   q   -   -   -   -   -   -   -   -   -,,,*ï(ń)gač
 Shor-250_woodsforestn-1-1,Shor-250_woodsforestn-1,aɣaʃ,507,false,expert,,a   -   ɣ   a   ʃ   -   -   -   -   -   -   -   -   -   -   -   -,,,*ï(ń)gač
-Tofa-250_woodsforestn-1-1,Tofa-250_woodsforestn-1,neʃ qaˁtɯnda,507,false,expert,,-   n   -   e   ʃ   _   -   -   -   -   -   -   -   q   a ˁ   t   ɯ,,,*ï(ń)gač
+Tofa-250_woodsforestn-1-1,Tofa-250_woodsforestn-1,neʃ qaˁtɯnda,507,false,expert,,-   n   -   e   ʃ   +   -   -   -   -   -   -   -   q   a ˁ   t   ɯ,,,*ï(ń)gač
 Tuvan-250_woodsforestn-1-1,Tuvan-250_woodsforestn-1,ɯjaʃ,507,false,expert,,ɯ   j   -   a   ʃ   -   -   -   -   -   -   -   -   -   -   -   -,,,*ï(ń)gač
 CrimeanTatar-250_woodsforestn-2-1,CrimeanTatar-250_woodsforestn-2,daɣ,508,false,expert,,d   a   -   ɣ,,,*da:g
 Gagauz-250_woodsforestn-1-1,Gagauz-250_woodsforestn-1,daa,508,false,expert,,d   a ː   -   -,,,*da:g
 Yakut-250_woodsforestn-1-1,Yakut-250_woodsforestn-1,tɯa,508,false,expert,,t   ɯ   a   -,,,*da:g
-NorthAltai-250_woodsforestn-2-1,NorthAltai-250_woodsforestn-2,aɣaʃ_arazɯ,509,false,expert,,a   ɣ   a   ʃ   _   a   r   a   z   ɯ,,,*ara
+NorthAltai-250_woodsforestn-2-1,NorthAltai-250_woodsforestn-2,aɣaʃ+arazɯ,509,false,expert,,a   ɣ   a   ʃ   +   a   r   a   z   ɯ,,,*ara
 MiddleChulym-250_woodsforestn-2-1,MiddleChulym-250_woodsforestn-2,aaʨ(aro:zə),509,false,expert,,a ː   -   -   ʨ   -   a   r   o ː   z   ə,,,*ara
 OldUyghur-250_woodsforestn-1-1,OldUyghur-250_woodsforestn-1,arɯɣ,510,false,expert,,a   r   ɯ   ɣ,,,"*arïg (СИГТЯ 2001, 110)"
 Salar-250_woodsforestn-1-1,Salar-250_woodsforestn-1,arɯɣ,510,false,expert,,a   r   ɯ   ɣ,,,"*arïg (СИГТЯ 2001, 110)"

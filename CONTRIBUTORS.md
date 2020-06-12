@@ -1,8 +1,8 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Robert Forkel | @xrotwang | maintainer
-Alexander Savelyev | | original data coding
-Martine Robbeets | | funding
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Alexander Savelyev | | original data coding | Author
+Johann-Mattis List | @LinguList | maintainer | Author
+Robert Forkel | @xrotwang | maintainer | Author
+Martine Robbeets | | funding | Editor

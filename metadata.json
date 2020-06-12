@@ -1,7 +1,7 @@
 {
-    "citation": "Savelyev, Alexander and Robbeets, Martine (2019): Turkic Basic Vocabularies. Jena: Max Planck Institute for the Science of Human History.",
-    "url": "https://doi.org/10.5281/zenodo.3555173",
-    "conceptlist": "Savelyev-2019-254",
-    "title": "Turkic Basic Vocabulary Database",
+    "citation": "Savelyev, Alexander and Robbeets, Martine (2020): Bayesian phylolinguistics infers the internal structure and the time-depth of the Turkic language family. Journal of Language Evolution 5.1. 39-53.",
+    "url": "https://doi.org/10.1093/jole/lzz010",
+    "conceptlist": "Savelyev-2020-254",
+    "title": "CLDF dataset derived from Savelyev and Robbeet's \"Internal Structure of the Turkic Language Family\" from 2020",
     "license": "https://creativecommons.org/licenses/by/4.0/"
 }

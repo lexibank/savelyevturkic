@@ -26,9 +26,6 @@
     "communities": [
         {
             "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
         }
     ],
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Savelyev, Alexander and Robbeets, Martine (2020): Bayesian phylolinguistics infers the internal structure and the time-depth of the Turkic language family. Journal of Language Evolution 5.1. 39-53.</p>\n</blockquote>",

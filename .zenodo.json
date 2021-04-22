@@ -4,15 +4,17 @@
     "creators": [
         {
             "name": "Alexander Savelyev"
-        },
-        {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Robert Forkel"
         }
     ],
     "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
         {
             "name": "Martine Robbeets",
             "type": "Editor"

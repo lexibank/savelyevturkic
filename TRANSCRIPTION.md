@@ -91,7 +91,7 @@
 | sʲ | 2 | ✓ | ✓ |
 | yˁ | 2 | ✓ | ✓ |
 | ʃː | 2 | ✓ | ✓ |
-| ch | 1 | ✓ | ✓ |
+| ch | 1 | ? | ? |
 | dʑ | 1 | ✓ | ✓ |
 | qː | 1 | ✓ | ✓ |
 | ɘ | 1 | ✓ | ✓ |
@@ -113,8 +113,9 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+|:--------------------------|:---------------|:----------|:-------|:------------------|
+| CodexCumanicus-13_backn-1 | CodexCumanicus | 13_backn | archa | a r <s> ch </s> a |
 
-(0 rows)
+(1 rows)
 
 

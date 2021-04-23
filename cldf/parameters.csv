@@ -66,7 +66,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 65_fathern,father (n.),1217,FATHER
 66_fearv,fear (v.),1419,FEAR (BE AFRAID)
 67_feathern,feather (n.),1201,FEATHER
-68_femaleofananimaln,female (of an animal) (n.),2262,FEMALE (OF ANIMAL)
+68_femaleofananimaln,female (of an animal) (n.),,
 69_fightv,fight (v.),1423,FIGHT
 70_findv,find (v.),719,FIND
 71_firen,fire (n.),221,FIRE
@@ -120,7 +120,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 119_legfootn,leg // foot (n.),2098,FOOT OR LEG
 120_lickv,lick (v.),319,LICK
 121_liedownv,lie (down) (v.),215,LIE DOWN
-122_livev,live (v.),2309,LIVE
+122_livev,live (v.),1422,BE ALIVE
 123_livern,liver (n.),1224,LIVER
 124_long,long,1203,LONG
 125_lookv,look (v.),1819,LOOK
@@ -174,7 +174,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 173_seev,see (v.),1409,SEE
 174_seedn,seed (n.),714,SEED
 175_sewv,sew (v.),1457,SEW
-176_shadeshadown,shade / shadow (n.),2275,SHADOW
+176_shadeshadown,shade / shadow (n.),1388,SHADE
 177_sharp,sharp,1396,SHARP
 178_short,short,1645,SHORT
 179_shouldern,shoulder (n.),1482,SHOULDER
@@ -213,7 +213,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 212_there,there,1937,THERE
 213_they,they,817,THEY
 214_thick,thick,1244,THICK
-215_thighn,thigh (n.),800,THIGH
+215_thighn,thigh (n.),471,UPPER LEG (THIGH)
 216_thin,thin,2308,THIN
 217_thinkv,think (v.),2271,THINK
 218_this,this,1214,THIS

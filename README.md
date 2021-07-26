@@ -1,8 +1,16 @@
 # CLDF dataset derived from Savelyev and Robbeet's "Internal Structure of the Turkic Language Family" from 2020
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/savelyevturkic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/savelyevturkic/actions?query=workflow%3ACLDF-validation)
 
-> Savelyev, Alexander and Robbeets, Martine (2020): Bayesian phylolinguistics infers the internal structure and the time-depth of the Turkic language family. Journal of Language Evolution 5.1. 39-53.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Savelyev, Alexander and Robbeets, Martine (2020): Bayesian phylolinguistics infers the internal structure and the time-depth of the Turkic language family. Journal of Language Evolution 5.1. 39-53.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -57,3 +65,10 @@ Robert Forkel | @xrotwang | maintainer | Other
 Martine Robbeets | | funding | Editor
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

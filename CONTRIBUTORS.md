@@ -3,6 +3,8 @@
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Alexander Savelyev | | original data coding | Author
-Johann-Mattis List | @LinguList | maintainer | Other 
-Robert Forkel | @xrotwang | maintainer | Other
-Martine Robbeets | | funding | Editor
+Martine Robbeets | | | Author
+Johann-Mattis List | @LinguList | maintainer | Editor
+Christoph Rzymski  | @chrzyki   | patron | Editor
+Robert Forkel | @xrotwang | code | Other
+

@@ -43,8 +43,8 @@ If you want to replicate the study, you can receive the NEXUS file using the EDI
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 32
-- **Concepts:** 254
+- **Varieties:** 32 (linked to 31 different Glottocodes)
+- **Concepts:** 254 (linked to 254 different Concepticon concept sets)
 - **Lexemes:** 8,360
 - **Sources:** 60
 - **Synonymy:** 1.10
@@ -52,7 +52,7 @@ If you want to replicate the study, you can receive the NEXUS file using the EDI
 - **Cognate Diversity:** 0.08
 - **Invalid lexemes:** 0
 - **Tokens:** 33,360
-- **Segments:** 90 (0 BIPA errors, 0 CTLS sound class errors, 90 CLTS modified)
+- **Segments:** 90 (0 BIPA errors, 0 CLTS sound class errors, 90 CLTS modified)
 - **Inventory size (avg):** 37.28
 
 # Contributors
@@ -60,9 +60,11 @@ If you want to replicate the study, you can receive the NEXUS file using the EDI
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Alexander Savelyev | | original data coding | Author
-Johann-Mattis List | @LinguList | maintainer | Other 
-Robert Forkel | @xrotwang | maintainer | Other
-Martine Robbeets | | funding | Editor
+Martine Robbeets | | | Author
+Johann-Mattis List | @LinguList | maintainer | Editor
+Christoph Rzymski  | @chrzyki   | patron | Editor
+Robert Forkel | @xrotwang | code | Other
+
 
 
 

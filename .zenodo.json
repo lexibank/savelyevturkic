@@ -4,20 +4,23 @@
     "creators": [
         {
             "name": "Alexander Savelyev"
+        },
+        {
+            "name": "Martine Robbeets"
         }
     ],
     "contributors": [
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Editor"
         },
         {
             "name": "Robert Forkel",
             "type": "Other"
-        },
-        {
-            "name": "Martine Robbeets",
-            "type": "Editor"
         }
     ],
     "title": "CLDF dataset derived from Savelyev and Robbeet's \"Internal Structure of the Turkic Language Family\" from 2020",

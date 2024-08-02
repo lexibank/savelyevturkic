@@ -66,7 +66,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 65_fathern,father (n.),1217,FATHER
 66_fearv,fear (v.),1419,FEAR (BE AFRAID)
 67_feathern,feather (n.),1201,FEATHER
-68_femaleofananimaln,female (of an animal) (n.),,
+68_femaleofananimaln,female (of an animal) (n.),3923,FEMALE ANIMAL
 69_fightv,fight (v.),1423,FIGHT
 70_findv,find (v.),719,FIND
 71_firen,fire (n.),221,FIRE
@@ -144,7 +144,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 143_nightn,night (n.),1233,NIGHT
 144_nosen,nose (n.),1221,NOSE
 145_not,not,1240,NOT
-146_old,old,2113,OLD (USED)
+146_old,old,1229,OLD
 147_one,one,1493,ONE
 148_openv,open (v.),1156,OPEN
 149_other,other,197,OTHER
@@ -159,7 +159,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 158_red,red,156,RED
 159_remainv,remain (v.),987,REMAIN
 160_right,right,1019,RIGHT
-161_ripev,ripe (v.),178,RIPE
+161_ripev,ripe (v.),179,RIPEN
 162_risev,rise (v.),568,RISE (MOVE UPWARDS)
 163_rivern,river (n.),666,RIVER
 164_rootn,root (n.),670,ROOT
